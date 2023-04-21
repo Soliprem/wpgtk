@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/keyboard.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181717",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#181717",
+        "color1": "#6b3f38",
+        "color2": "#384b60",
+        "color3": "#b4958f",
+        "color4": "#475f78",
+        "color5": "#7d7c7f",
+        "color6": "#95a0af",
+        "color7": "#c5c5c5",
+        "color8": "#312f2f",
+        "color9": "#954a3e",
+        "color10": "#3e6186",
+        "color11": "#feb3a4",
+        "color12": "#4f7ba8",
+        "color13": "#9d90b5",
+        "color14": "#acccf8",
+        "color15": "#ffffff"
+    }
+}

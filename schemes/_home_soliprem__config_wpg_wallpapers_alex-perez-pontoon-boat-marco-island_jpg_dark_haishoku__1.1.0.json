@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/alex-perez-pontoon-boat-marco-island.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#141818",
+        "foreground": "#feffff",
+        "cursor": "#feffff"
+    },
+    "colors": {
+        "color0": "#141818",
+        "color1": "#1c5255",
+        "color2": "#145651",
+        "color3": "#6c8f90",
+        "color4": "#2a6666",
+        "color5": "#85a7ad",
+        "color6": "#99bbc0",
+        "color7": "#c4c5c5",
+        "color8": "#2a3333",
+        "color9": "#1d7175",
+        "color10": "#13766f",
+        "color11": "#7cc9cb",
+        "color12": "#2d8d8d",
+        "color13": "#99e6f4",
+        "color14": "#b0ffff",
+        "color15": "#feffff"
+    }
+}

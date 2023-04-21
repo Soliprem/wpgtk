@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Neon_Dream.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#151418",
+        "foreground": "#fefeff",
+        "cursor": "#fefeff"
+    },
+    "colors": {
+        "color0": "#151418",
+        "color1": "#c72a74",
+        "color2": "#1b0746",
+        "color3": "#6e1352",
+        "color4": "#3f0e77",
+        "color5": "#981e78",
+        "color6": "#6e1480",
+        "color7": "#c4c4c5",
+        "color8": "#2c2a33",
+        "color9": "#ff2695",
+        "color10": "#210360",
+        "color11": "#97106d",
+        "color12": "#5109a3",
+        "color13": "#d11ba1",
+        "color14": "#9510b0",
+        "color15": "#fefeff"
+    }
+}

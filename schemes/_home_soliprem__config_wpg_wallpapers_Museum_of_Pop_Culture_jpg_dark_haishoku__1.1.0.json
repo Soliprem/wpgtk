@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Museum_of_Pop_Culture.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1f151d",
+        "foreground": "#fffdff",
+        "cursor": "#fffdff"
+    },
+    "colors": {
+        "color0": "#1f151d",
+        "color1": "#d00b57",
+        "color2": "#890a51",
+        "color3": "#e5564a",
+        "color4": "#951973",
+        "color5": "#dd0a6f",
+        "color6": "#e86981",
+        "color7": "#c7c4c6",
+        "color8": "#3d2938",
+        "color9": "#ff016e",
+        "color10": "#bb036a",
+        "color11": "#ff5f4c",
+        "color12": "#cd159a",
+        "color13": "#ff018f",
+        "color14": "#ff729a",
+        "color15": "#fffdff"
+    }
+}

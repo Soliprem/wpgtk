@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Tomas-Sanchez-Aislarse-2001.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b1b19",
+        "foreground": "#fffffe",
+        "cursor": "#fffffe"
+    },
+    "colors": {
+        "color0": "#1b1b19",
+        "color1": "#6d623a",
+        "color2": "#626b37",
+        "color3": "#b5ab6e",
+        "color4": "#807b40",
+        "color5": "#bfbe84",
+        "color6": "#979063",
+        "color7": "#c6c6c5",
+        "color8": "#353531",
+        "color9": "#988540",
+        "color10": "#86953c",
+        "color11": "#feeb7c",
+        "color12": "#b2aa46",
+        "color13": "#ffff96",
+        "color14": "#d4c770",
+        "color15": "#fffffe"
+    }
+}

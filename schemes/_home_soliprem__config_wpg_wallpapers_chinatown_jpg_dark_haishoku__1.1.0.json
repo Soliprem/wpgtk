@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/chinatown.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191918",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191918",
+        "color1": "#6e3d26",
+        "color2": "#40424c",
+        "color3": "#815c37",
+        "color4": "#51628c",
+        "color5": "#795e5b",
+        "color6": "#69494d",
+        "color7": "#c5c5c5",
+        "color8": "#323230",
+        "color9": "#984b27",
+        "color10": "#4a4f6b",
+        "color11": "#b3773b",
+        "color12": "#5a79c4",
+        "color13": "#ab6f68",
+        "color14": "#94535b",
+        "color15": "#ffffff"
+    }
+}

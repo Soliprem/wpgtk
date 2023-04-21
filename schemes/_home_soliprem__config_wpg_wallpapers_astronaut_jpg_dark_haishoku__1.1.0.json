@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/astronaut.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1c1a1a",
+        "foreground": "#fffefe",
+        "cursor": "#fffefe"
+    },
+    "colors": {
+        "color0": "#1c1a1a",
+        "color1": "#815846",
+        "color2": "#977957",
+        "color3": "#c4aea2",
+        "color4": "#989d98",
+        "color5": "#c5b7ae",
+        "color6": "#668080",
+        "color7": "#c6c5c5",
+        "color8": "#353232",
+        "color9": "#b46d4e",
+        "color10": "#d39e61",
+        "color11": "#ffdbbb",
+        "color12": "#b1e0b1",
+        "color13": "#ffe8ca",
+        "color14": "#75b5b5",
+        "color15": "#fffefe"
+    }
+}

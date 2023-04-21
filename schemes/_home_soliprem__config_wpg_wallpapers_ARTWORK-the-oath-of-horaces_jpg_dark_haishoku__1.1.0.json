@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/ARTWORK-the-oath-of-horaces.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181717",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#181717",
+        "color1": "#b53c32",
+        "color2": "#8a7d5f",
+        "color3": "#d1b37e",
+        "color4": "#6a372a",
+        "color5": "#bb9364",
+        "color6": "#7b5e41",
+        "color7": "#c5c5c5",
+        "color8": "#312f2f",
+        "color9": "#fa4131",
+        "color10": "#c2a86c",
+        "color11": "#ffee8e",
+        "color12": "#93412c",
+        "color13": "#ffc06f",
+        "color14": "#ac7a48",
+        "color15": "#ffffff"
+    }
+}

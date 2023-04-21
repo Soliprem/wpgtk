@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/among-us.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161717",
+        "foreground": "#feffff",
+        "cursor": "#feffff"
+    },
+    "colors": {
+        "color0": "#161717",
+        "color1": "#8b6037",
+        "color2": "#837c7d",
+        "color3": "#e7cb8c",
+        "color4": "#326774",
+        "color5": "#bd8878",
+        "color6": "#6f4029",
+        "color7": "#c4c5c5",
+        "color8": "#2e3030",
+        "color9": "#c17c3a",
+        "color10": "#ba9096",
+        "color11": "#ffff9d",
+        "color12": "#368ca1",
+        "color13": "#ffa687",
+        "color14": "#9a4f2b",
+        "color15": "#feffff"
+    }
+}

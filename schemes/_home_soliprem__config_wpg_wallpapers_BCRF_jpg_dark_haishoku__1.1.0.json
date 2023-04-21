@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/BCRF.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#151415",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#151415",
+        "color1": "#c30870",
+        "color2": "#7b2a73",
+        "color3": "#74063d",
+        "color4": "#463568",
+        "color5": "#8f7ac4",
+        "color6": "#715d9c",
+        "color7": "#c4c4c4",
+        "color8": "#2e2c2e",
+        "color9": "#ff0192",
+        "color10": "#aa2b9e",
+        "color11": "#9d014f",
+        "color12": "#573a91",
+        "color13": "#b089ff",
+        "color14": "#8c68da",
+        "color15": "#ffffff"
+    }
+}

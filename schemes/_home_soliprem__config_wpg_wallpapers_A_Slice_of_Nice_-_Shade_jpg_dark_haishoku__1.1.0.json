@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/A_Slice_of_Nice_-_Shade.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191426",
+        "foreground": "#fdfcff",
+        "cursor": "#fdfcff"
+    },
+    "colors": {
+        "color0": "#191426",
+        "color1": "#ea0c45",
+        "color2": "#7c117b",
+        "color3": "#574be5",
+        "color4": "#1814bd",
+        "color5": "#eb3391",
+        "color6": "#7a72e2",
+        "color7": "#c5c4c8",
+        "color8": "#2e2447",
+        "color9": "#ff0152",
+        "color10": "#aa0ca9",
+        "color11": "#604dff",
+        "color12": "#120cff",
+        "color13": "#ff2fbc",
+        "color14": "#8b7eff",
+        "color15": "#fdfcff"
+    }
+}

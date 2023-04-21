@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/arthur-oliveira-bi-final.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#14161a",
+        "foreground": "#fefeff",
+        "cursor": "#fefeff"
+    },
+    "colors": {
+        "color0": "#14161a",
+        "color1": "#ad1c6d",
+        "color2": "#862b75",
+        "color3": "#faa2d2",
+        "color4": "#232272",
+        "color5": "#e268ab",
+        "color6": "#80759d",
+        "color7": "#c4c4c5",
+        "color8": "#292d36",
+        "color9": "#ee178f",
+        "color10": "#b92c9f",
+        "color11": "#ffafff",
+        "color12": "#24229d",
+        "color13": "#ff71e0",
+        "color14": "#9e86dd",
+        "color15": "#fefeff"
+    }
+}

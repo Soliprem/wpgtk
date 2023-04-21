@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/mandaqua-i.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161618",
+        "foreground": "#fefeff",
+        "cursor": "#fefeff"
+    },
+    "colors": {
+        "color0": "#161618",
+        "color1": "#77153d",
+        "color2": "#253179",
+        "color3": "#3f6ee9",
+        "color4": "#2f4cb8",
+        "color5": "#7c2f78",
+        "color6": "#6391ef",
+        "color7": "#c4c4c5",
+        "color8": "#2d2d32",
+        "color9": "#a3124d",
+        "color10": "#2538a7",
+        "color11": "#3e86ff",
+        "color12": "#2e5afe",
+        "color13": "#ac31a5",
+        "color14": "#6ab4ff",
+        "color15": "#fefeff"
+    }
+}

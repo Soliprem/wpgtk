@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/stravros-messios-blood-moon-in-cyprus.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#141414",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#141414",
+        "color1": "#c12800",
+        "color2": "#c17930",
+        "color3": "#fb963d",
+        "color4": "#7a0b00",
+        "color5": "#e65b06",
+        "color6": "#fa8718",
+        "color7": "#c4c4c4",
+        "color8": "#2d2d2d",
+        "color9": "#f93401",
+        "color10": "#ff9d2e",
+        "color11": "#ffc13a",
+        "color12": "#9d0f01",
+        "color13": "#ff7401",
+        "color14": "#ffaf0d",
+        "color15": "#ffffff"
+    }
+}

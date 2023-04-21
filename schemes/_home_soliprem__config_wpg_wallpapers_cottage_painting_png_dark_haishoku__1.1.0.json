@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/cottage_painting.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#171715",
+        "foreground": "#fffffe",
+        "cursor": "#fffffe"
+    },
+    "colors": {
+        "color0": "#171715",
+        "color1": "#d27029",
+        "color2": "#895d2d",
+        "color3": "#eab674",
+        "color4": "#8b7c67",
+        "color5": "#c79569",
+        "color6": "#703f1d",
+        "color7": "#c5c5c4",
+        "color8": "#31312c",
+        "color9": "#ff8e24",
+        "color10": "#bd792e",
+        "color11": "#ffef80",
+        "color12": "#c4a376",
+        "color13": "#ffc074",
+        "color14": "#9a501c",
+        "color15": "#fffffe"
+    }
+}

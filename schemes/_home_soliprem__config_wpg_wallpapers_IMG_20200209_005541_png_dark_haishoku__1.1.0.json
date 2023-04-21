@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/IMG_20200209_005541.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#151515",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#151515",
+        "color1": "#f81905",
+        "color2": "#75787e",
+        "color3": "#db8b7b",
+        "color4": "#475e6b",
+        "color5": "#a3b5ba",
+        "color6": "#8598ad",
+        "color7": "#c4c4c4",
+        "color8": "#2e2e2e",
+        "color9": "#ff1b01",
+        "color10": "#8896b3",
+        "color11": "#ffa589",
+        "color12": "#507d96",
+        "color13": "#bdf8ff",
+        "color14": "#99c4f4",
+        "color15": "#ffffff"
+    }
+}

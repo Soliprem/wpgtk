@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/pyramid.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#151517",
+        "foreground": "#fefeff",
+        "cursor": "#fefeff"
+    },
+    "colors": {
+        "color0": "#151517",
+        "color1": "#c93373",
+        "color2": "#2b266d",
+        "color3": "#722343",
+        "color4": "#2e2cbf",
+        "color5": "#7735be",
+        "color6": "#7d2e6f",
+        "color7": "#c4c4c5",
+        "color8": "#2c2c31",
+        "color9": "#ff3193",
+        "color10": "#2f2797",
+        "color11": "#9d2355",
+        "color12": "#2c29ff",
+        "color13": "#9a35ff",
+        "color14": "#ad3097",
+        "color15": "#fefeff"
+    }
+}

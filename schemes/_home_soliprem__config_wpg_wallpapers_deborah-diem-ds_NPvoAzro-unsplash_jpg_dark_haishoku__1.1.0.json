@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/deborah-diem-ds_NPvoAzro-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#14181a",
+        "foreground": "#feffff",
+        "cursor": "#feffff"
+    },
+    "colors": {
+        "color0": "#14181a",
+        "color1": "#58889a",
+        "color2": "#04495d",
+        "color3": "#6297ab",
+        "color4": "#19697f",
+        "color5": "#86acbc",
+        "color6": "#3a8fa8",
+        "color7": "#c4c5c5",
+        "color8": "#293236",
+        "color9": "#62b7d7",
+        "color10": "#01617d",
+        "color11": "#6dccef",
+        "color12": "#168eaf",
+        "color13": "#99e8ff",
+        "color14": "#3cc1e9",
+        "color15": "#feffff"
+    }
+}

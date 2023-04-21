@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/ARTWORK-lonely-tree.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1a1a18",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#1a1a18",
+        "color1": "#7c7131",
+        "color2": "#61512c",
+        "color3": "#838884",
+        "color4": "#575e68",
+        "color5": "#a5adb1",
+        "color6": "#9aa2a8",
+        "color7": "#c5c5c5",
+        "color8": "#34342f",
+        "color9": "#ac9a34",
+        "color10": "#876c30",
+        "color11": "#99c2a1",
+        "color12": "#647893",
+        "color13": "#c0e8fc",
+        "color14": "#b3d5ef",
+        "color15": "#ffffff"
+    }
+}

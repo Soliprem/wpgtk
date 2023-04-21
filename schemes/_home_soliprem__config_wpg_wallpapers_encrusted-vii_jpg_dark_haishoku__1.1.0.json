@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/encrusted-vii.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#171717",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#171717",
+        "color1": "#d81f35",
+        "color2": "#2a4669",
+        "color3": "#791733",
+        "color4": "#297288",
+        "color5": "#777778",
+        "color6": "#298ec9",
+        "color7": "#c5c5c5",
+        "color8": "#303030",
+        "color9": "#ff1838",
+        "color10": "#2d5992",
+        "color11": "#a6143e",
+        "color12": "#299abc",
+        "color13": "#8b8bab",
+        "color14": "#25bcff",
+        "color15": "#ffffff"
+    }
+}

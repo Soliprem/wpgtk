@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/ARTWORK-medusas-raft.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191816",
+        "foreground": "#fffffe",
+        "cursor": "#fffffe"
+    },
+    "colors": {
+        "color0": "#191816",
+        "color1": "#ae723e",
+        "color2": "#775e39",
+        "color3": "#d5b473",
+        "color4": "#5f4728",
+        "color5": "#b8915a",
+        "color6": "#8f7a50",
+        "color7": "#c5c5c4",
+        "color8": "#33312d",
+        "color9": "#f19341",
+        "color10": "#a67c3e",
+        "color11": "#fff080",
+        "color12": "#845d2b",
+        "color13": "#ffbf63",
+        "color14": "#c8a359",
+        "color15": "#fffffe"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/pencil-pattern-ceramic-artistic-tile-colorful-1010461-pxhere.com.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181817",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#181817",
+        "color1": "#982b12",
+        "color2": "#80782b",
+        "color3": "#c97923",
+        "color4": "#286c94",
+        "color5": "#be904e",
+        "color6": "#80775b",
+        "color7": "#c5c5c5",
+        "color8": "#31312f",
+        "color9": "#d0300c",
+        "color10": "#b1a52c",
+        "color11": "#ff9d1e",
+        "color12": "#278fcc",
+        "color13": "#ffbe53",
+        "color14": "#b4a168",
+        "color15": "#ffffff"
+    }
+}

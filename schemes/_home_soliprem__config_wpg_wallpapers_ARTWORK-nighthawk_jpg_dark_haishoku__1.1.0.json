@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/ARTWORK-nighthawk.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181919",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#181919",
+        "color1": "#b67422",
+        "color2": "#42715f",
+        "color3": "#d9d57b",
+        "color4": "#3f554e",
+        "color5": "#64311f",
+        "color6": "#699070",
+        "color7": "#c5c5c5",
+        "color8": "#303232",
+        "color9": "#fa981e",
+        "color10": "#4a9e7e",
+        "color11": "#ffff89",
+        "color12": "#487868",
+        "color13": "#8a3b1f",
+        "color14": "#78cb87",
+        "color15": "#ffffff"
+    }
+}

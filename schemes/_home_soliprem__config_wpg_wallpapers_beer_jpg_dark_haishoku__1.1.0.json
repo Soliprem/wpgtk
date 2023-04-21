@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/beer.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#151515",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#151515",
+        "color1": "#b87d42",
+        "color2": "#366c5b",
+        "color3": "#cd9869",
+        "color4": "#2f5c4c",
+        "color5": "#91663a",
+        "color6": "#693f21",
+        "color7": "#c4c4c4",
+        "color8": "#2e2e2e",
+        "color9": "#ffa245",
+        "color10": "#3b967a",
+        "color11": "#ffc474",
+        "color12": "#348065",
+        "color13": "#c9843e",
+        "color14": "#915021",
+        "color15": "#ffffff"
+    }
+}

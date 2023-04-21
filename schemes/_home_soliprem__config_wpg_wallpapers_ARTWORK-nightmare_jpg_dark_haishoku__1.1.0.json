@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/ARTWORK-nightmare.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161616",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#161616",
+        "color1": "#765e42",
+        "color2": "#786e6f",
+        "color3": "#c4a983",
+        "color4": "#494855",
+        "color5": "#af8d71",
+        "color6": "#5a362b",
+        "color7": "#c4c4c4",
+        "color8": "#2f2f2f",
+        "color9": "#a57b49",
+        "color10": "#aa8084",
+        "color11": "#ffdf95",
+        "color12": "#565378",
+        "color13": "#f6b580",
+        "color14": "#7d412f",
+        "color15": "#ffffff"
+    }
+}

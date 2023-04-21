@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/cy-sirok-beach-in-tigertail-court.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#141a19",
+        "foreground": "#feffff",
+        "cursor": "#feffff"
+    },
+    "colors": {
+        "color0": "#141a19",
+        "color1": "#806457",
+        "color2": "#1d8878",
+        "color3": "#8f7d77",
+        "color4": "#006555",
+        "color5": "#73a49d",
+        "color6": "#489f90",
+        "color7": "#c4c5c5",
+        "color8": "#293634",
+        "color9": "#b47c63",
+        "color10": "#1abba3",
+        "color11": "#ca9a89",
+        "color12": "#01826d",
+        "color13": "#83e7d9",
+        "color14": "#4eddc5",
+        "color15": "#feffff"
+    }
+}

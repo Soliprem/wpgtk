@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/lotrA.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#171918",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#171918",
+        "color1": "#634625",
+        "color2": "#2e5d46",
+        "color3": "#828467",
+        "color4": "#0f4c56",
+        "color5": "#76633d",
+        "color6": "#276d6a",
+        "color7": "#c5c5c5",
+        "color8": "#2e3331",
+        "color9": "#895b27",
+        "color10": "#32815b",
+        "color11": "#b6ba76",
+        "color12": "#0c6776",
+        "color13": "#a58443",
+        "color14": "#299792",
+        "color15": "#ffffff"
+    }
+}

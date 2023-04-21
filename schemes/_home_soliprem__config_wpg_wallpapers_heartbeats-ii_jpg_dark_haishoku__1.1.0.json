@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/heartbeats-ii.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161616",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#161616",
+        "color1": "#d2032e",
+        "color2": "#2a6d85",
+        "color3": "#7a0921",
+        "color4": "#1f4269",
+        "color5": "#707685",
+        "color6": "#2487c1",
+        "color7": "#c4c4c4",
+        "color8": "#2f2f2f",
+        "color9": "#ff013a",
+        "color10": "#2b93b8",
+        "color11": "#a70325",
+        "color12": "#1f5591",
+        "color13": "#8192bc",
+        "color14": "#1fb3ff",
+        "color15": "#ffffff"
+    }
+}

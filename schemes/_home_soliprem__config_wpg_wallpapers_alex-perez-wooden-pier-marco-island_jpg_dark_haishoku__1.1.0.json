@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/alex-perez-wooden-pier-marco-island.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#14191a",
+        "foreground": "#feffff",
+        "cursor": "#feffff"
+    },
+    "colors": {
+        "color0": "#14191a",
+        "color1": "#665740",
+        "color2": "#054152",
+        "color3": "#9d9183",
+        "color4": "#0e5463",
+        "color5": "#93857b",
+        "color6": "#726f6e",
+        "color7": "#c4c5c5",
+        "color8": "#293436",
+        "color9": "#8f7348",
+        "color10": "#015770",
+        "color11": "#debd97",
+        "color12": "#0a7288",
+        "color13": "#d0a98e",
+        "color14": "#a28980",
+        "color15": "#feffff"
+    }
+}

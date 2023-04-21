@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Sediment_in_the_Gulf_of_Mexico.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161718",
+        "foreground": "#feffff",
+        "cursor": "#feffff"
+    },
+    "colors": {
+        "color0": "#161718",
+        "color1": "#732639",
+        "color2": "#1c3b50",
+        "color3": "#7a5664",
+        "color4": "#225a6e",
+        "color5": "#cd6471",
+        "color6": "#7ba2b5",
+        "color7": "#c4c5c5",
+        "color8": "#2d3032",
+        "color9": "#9f2745",
+        "color10": "#1d4e6f",
+        "color11": "#ac627f",
+        "color12": "#227998",
+        "color13": "#ff6e83",
+        "color14": "#8cd9ff",
+        "color15": "#feffff"
+    }
+}

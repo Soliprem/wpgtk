@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/sandro-katalina-k1bO_VTiZSs-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#15141a",
+        "foreground": "#fefeff",
+        "cursor": "#fefeff"
+    },
+    "colors": {
+        "color0": "#15141a",
+        "color1": "#621b9c",
+        "color2": "#822ccc",
+        "color3": "#b879eb",
+        "color4": "#33087c",
+        "color5": "#b048e5",
+        "color6": "#9e63d7",
+        "color7": "#c4c4c5",
+        "color8": "#2b2936",
+        "color9": "#8017d6",
+        "color10": "#aa28ff",
+        "color11": "#f186ff",
+        "color12": "#4001a9",
+        "color13": "#eb49ff",
+        "color14": "#cd6cff",
+        "color15": "#fefeff"
+    }
+}

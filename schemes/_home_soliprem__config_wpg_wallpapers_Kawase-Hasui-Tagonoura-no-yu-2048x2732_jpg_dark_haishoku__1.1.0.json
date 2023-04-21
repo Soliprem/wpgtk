@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Kawase-Hasui-Tagonoura-no-yu-2048x2732.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181818",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#181818",
+        "color1": "#594943",
+        "color2": "#4f5352",
+        "color3": "#b39188",
+        "color4": "#7f706a",
+        "color5": "#86959a",
+        "color6": "#9db2b9",
+        "color7": "#c5c5c5",
+        "color8": "#313131",
+        "color9": "#7d5a4d",
+        "color10": "#5c766f",
+        "color11": "#fdb09c",
+        "color12": "#b48b7a",
+        "color13": "#9bcbda",
+        "color14": "#b5f2ff",
+        "color15": "#ffffff"
+    }
+}

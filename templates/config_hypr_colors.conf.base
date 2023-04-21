@@ -1,0 +1,2 @@
+col.active_border=rgb({active.strip})
+col.inactive_border=rgb({inactive.strip})

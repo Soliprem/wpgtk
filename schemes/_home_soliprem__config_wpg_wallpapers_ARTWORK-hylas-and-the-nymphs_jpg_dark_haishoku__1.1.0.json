@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/ARTWORK-hylas-and-the-nymphs.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191718",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191718",
+        "color1": "#684036",
+        "color2": "#816544",
+        "color3": "#bc864a",
+        "color4": "#8a756f",
+        "color5": "#c59a72",
+        "color6": "#e2bf91",
+        "color7": "#c5c5c5",
+        "color8": "#332e31",
+        "color9": "#914d3b",
+        "color10": "#b4844b",
+        "color11": "#ffaf4f",
+        "color12": "#c38f80",
+        "color13": "#ffc780",
+        "color14": "#fffba4",
+        "color15": "#ffffff"
+    }
+}

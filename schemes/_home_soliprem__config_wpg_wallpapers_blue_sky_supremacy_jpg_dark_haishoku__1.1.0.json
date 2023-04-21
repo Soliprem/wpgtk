@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/blue_sky_supremacy.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#141620",
+        "foreground": "#fdfdff",
+        "cursor": "#fdfdff"
+    },
+    "colors": {
+        "color0": "#141620",
+        "color1": "#1079f7",
+        "color2": "#082f9e",
+        "color3": "#7fe7fc",
+        "color4": "#0542e0",
+        "color5": "#6e8eeb",
+        "color6": "#28dcfc",
+        "color7": "#c4c4c7",
+        "color8": "#272b3f",
+        "color9": "#039bff",
+        "color10": "#0138d6",
+        "color11": "#8cffff",
+        "color12": "#0153ff",
+        "color13": "#78adff",
+        "color14": "#20ffff",
+        "color15": "#fdfdff"
+    }
+}

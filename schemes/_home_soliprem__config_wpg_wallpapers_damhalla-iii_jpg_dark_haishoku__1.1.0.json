@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/damhalla-iii.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#18191a",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#18191a",
+        "color1": "#a6212d",
+        "color2": "#5e6060",
+        "color3": "#84827a",
+        "color4": "#434e53",
+        "color5": "#6c4443",
+        "color6": "#6f2c32",
+        "color7": "#c5c5c5",
+        "color8": "#2f3234",
+        "color9": "#e41d2f",
+        "color10": "#6d8989",
+        "color11": "#bcb28e",
+        "color12": "#4d6975",
+        "color13": "#974d4b",
+        "color14": "#9a2f38",
+        "color15": "#ffffff"
+    }
+}

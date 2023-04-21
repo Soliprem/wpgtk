@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/ARTWORK-spring.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b1916",
+        "foreground": "#fffffd",
+        "cursor": "#fffffd"
+    },
+    "colors": {
+        "color0": "#1b1916",
+        "color1": "#6a471f",
+        "color2": "#827228",
+        "color3": "#ab9046",
+        "color4": "#af9667",
+        "color5": "#bcb587",
+        "color6": "#908a6f",
+        "color7": "#c6c5c4",
+        "color8": "#36322c",
+        "color9": "#925c1f",
+        "color10": "#b49b28",
+        "color11": "#edc24b",
+        "color12": "#f5c873",
+        "color13": "#fffa9a",
+        "color14": "#cbbd7f",
+        "color15": "#fffffd"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/garden-of-earthly-delights.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181816",
+        "foreground": "#fffffe",
+        "cursor": "#fffffe"
+    },
+    "colors": {
+        "color0": "#181816",
+        "color1": "#68431e",
+        "color2": "#7a712e",
+        "color3": "#b9ad72",
+        "color4": "#818065",
+        "color5": "#b09068",
+        "color6": "#8eada7",
+        "color7": "#c5c5c4",
+        "color8": "#32322d",
+        "color9": "#8f571e",
+        "color10": "#a99b30",
+        "color11": "#ffed80",
+        "color12": "#b6b474",
+        "color13": "#f6bd75",
+        "color14": "#a4f5e5",
+        "color15": "#fffffe"
+    }
+}

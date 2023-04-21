@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/niketh-vellanki-QkSN_8XcXwQ-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#141414",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#141414",
+        "color1": "#58432f",
+        "color2": "#354456",
+        "color3": "#5d6e82",
+        "color4": "#44596f",
+        "color5": "#738ba6",
+        "color6": "#8ea3b7",
+        "color7": "#c4c4c4",
+        "color8": "#2d2d2d",
+        "color9": "#7b5634",
+        "color10": "#3b5778",
+        "color11": "#6a8db7",
+        "color12": "#4c739b",
+        "color13": "#83b3ea",
+        "color14": "#a3d4ff",
+        "color15": "#ffffff"
+    }
+}

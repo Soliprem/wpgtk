@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/heather-wilde-ThZaECSBhIY-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#201b16",
+        "foreground": "#fffffd",
+        "cursor": "#fffffd"
+    },
+    "colors": {
+        "color0": "#201b16",
+        "color1": "#8b5123",
+        "color2": "#b4804c",
+        "color3": "#f0b77e",
+        "color4": "#b0713a",
+        "color5": "#d29156",
+        "color6": "#c27e43",
+        "color7": "#c7c6c4",
+        "color8": "#3d342a",
+        "color9": "#c06722",
+        "color10": "#faa652",
+        "color11": "#ffed8c",
+        "color12": "#f4913c",
+        "color13": "#ffbb5c",
+        "color14": "#ffa246",
+        "color15": "#fffffd"
+    }
+}

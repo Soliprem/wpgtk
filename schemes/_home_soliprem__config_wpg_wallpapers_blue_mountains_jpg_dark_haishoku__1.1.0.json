@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/blue_mountains.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#14181c",
+        "foreground": "#fdffff",
+        "cursor": "#fdffff"
+    },
+    "colors": {
+        "color0": "#14181c",
+        "color1": "#053b83",
+        "color2": "#296ea7",
+        "color3": "#277dd5",
+        "color4": "#0952b5",
+        "color5": "#5fa1df",
+        "color6": "#31caf5",
+        "color7": "#c4c5c6",
+        "color8": "#283039",
+        "color9": "#014baf",
+        "color10": "#2790e6",
+        "color11": "#22a2ff",
+        "color12": "#0168f6",
+        "color13": "#66d1ff",
+        "color14": "#2cffff",
+        "color15": "#fdffff"
+    }
+}

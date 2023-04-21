@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/stranger-days.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#141414",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#141414",
+        "color1": "#bb3021",
+        "color2": "#484c4b",
+        "color3": "#c06a63",
+        "color4": "#64605e",
+        "color5": "#bb4a3e",
+        "color6": "#6c231b",
+        "color7": "#c4c4c4",
+        "color8": "#2d2d2d",
+        "color9": "#ff321c",
+        "color10": "#546c66",
+        "color11": "#ff796d",
+        "color12": "#8e786d",
+        "color13": "#ff5340",
+        "color14": "#95261a",
+        "color15": "#ffffff"
+    }
+}

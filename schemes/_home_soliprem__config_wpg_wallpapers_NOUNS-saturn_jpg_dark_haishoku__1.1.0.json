@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/NOUNS-saturn.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#141515",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#141515",
+        "color1": "#6c5e4d",
+        "color2": "#465b63",
+        "color3": "#ac9888",
+        "color4": "#30495c",
+        "color5": "#7e7a74",
+        "color6": "#5a4d40",
+        "color7": "#c4c4c4",
+        "color8": "#2c2e2e",
+        "color9": "#987b58",
+        "color10": "#507b8b",
+        "color11": "#f3c39c",
+        "color12": "#356080",
+        "color13": "#b3a187",
+        "color14": "#7e6449",
+        "color15": "#ffffff"
+    }
+}

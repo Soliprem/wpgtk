@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Fluid_Art.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#171516",
+        "foreground": "#fffefe",
+        "cursor": "#fffefe"
+    },
+    "colors": {
+        "color0": "#171516",
+        "color1": "#b62532",
+        "color2": "#841c28",
+        "color3": "#d67b7a",
+        "color4": "#8a565a",
+        "color5": "#cb6162",
+        "color6": "#c63848",
+        "color7": "#c5c4c4",
+        "color8": "#312c2f",
+        "color9": "#fa2135",
+        "color10": "#b6192b",
+        "color11": "#ff8a88",
+        "color12": "#c16168",
+        "color13": "#ff6a6c",
+        "color14": "#ff3850",
+        "color15": "#fffefe"
+    }
+}

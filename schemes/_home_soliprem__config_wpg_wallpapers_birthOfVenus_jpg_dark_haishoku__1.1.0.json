@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/birthOfVenus.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1a1917",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#1a1917",
+        "color1": "#714728",
+        "color2": "#898565",
+        "color3": "#bc925e",
+        "color4": "#896738",
+        "color5": "#c7ae7d",
+        "color6": "#a4a681",
+        "color7": "#c5c5c5",
+        "color8": "#34322e",
+        "color9": "#9c5a2a",
+        "color10": "#c1b873",
+        "color11": "#ffbf67",
+        "color12": "#be873c",
+        "color13": "#ffe98d",
+        "color14": "#e6ea94",
+        "color15": "#ffffff"
+    }
+}

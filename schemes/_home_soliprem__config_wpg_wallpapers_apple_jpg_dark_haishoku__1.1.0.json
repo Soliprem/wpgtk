@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/apple.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191919",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191919",
+        "color1": "#fb4933",
+        "color2": "#a3a526",
+        "color3": "#f67f20",
+        "color4": "#e86361",
+        "color5": "#d3849a",
+        "color6": "#84ad97",
+        "color7": "#c5c5c5",
+        "color8": "#323232",
+        "color9": "#ff4f2e",
+        "color10": "#e0e324",
+        "color11": "#ffa317",
+        "color12": "#ff6b68",
+        "color13": "#ff95be",
+        "color14": "#97f4c2",
+        "color15": "#ffffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Golden_Lights.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#171514",
+        "foreground": "#fffefe",
+        "cursor": "#fffefe"
+    },
+    "colors": {
+        "color0": "#171514",
+        "color1": "#b74517",
+        "color2": "#883c16",
+        "color3": "#d05d22",
+        "color4": "#68230b",
+        "color5": "#a53912",
+        "color6": "#8d3210",
+        "color7": "#c5c4c4",
+        "color8": "#312d2b",
+        "color9": "#fb5310",
+        "color10": "#bb4a12",
+        "color11": "#ff731c",
+        "color12": "#8e2906",
+        "color13": "#e2440b",
+        "color14": "#c13c0a",
+        "color15": "#fffefe"
+    }
+}

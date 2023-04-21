@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/ARTWORK-la-miennas.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#171615",
+        "foreground": "#fffefe",
+        "cursor": "#fffefe"
+    },
+    "colors": {
+        "color0": "#171615",
+        "color1": "#a45f35",
+        "color2": "#87704f",
+        "color3": "#b19974",
+        "color4": "#5e3d1f",
+        "color5": "#a7865f",
+        "color6": "#7e5734",
+        "color7": "#c5c4c4",
+        "color8": "#312f2c",
+        "color9": "#e37836",
+        "color10": "#bd9458",
+        "color11": "#f9ca83",
+        "color12": "#824e20",
+        "color13": "#eaaf6a",
+        "color14": "#af7038",
+        "color15": "#fffefe"
+    }
+}

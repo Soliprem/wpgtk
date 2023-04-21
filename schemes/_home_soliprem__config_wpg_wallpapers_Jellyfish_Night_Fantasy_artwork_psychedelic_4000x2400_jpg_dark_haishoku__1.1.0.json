@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Jellyfish_Night_Fantasy_artwork_psychedelic_4000x2400.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#171919",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#171919",
+        "color1": "#e42b03",
+        "color2": "#297d61",
+        "color3": "#6f8668",
+        "color4": "#20584d",
+        "color5": "#7d2915",
+        "color6": "#3ab786",
+        "color7": "#c5c5c5",
+        "color8": "#2e3333",
+        "color9": "#ff3601",
+        "color10": "#2aad81",
+        "color11": "#88bd77",
+        "color12": "#217a68",
+        "color13": "#ac2f11",
+        "color14": "#3bfdb1",
+        "color15": "#ffffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/dandadan.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#141516",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#141516",
+        "color1": "#b7693a",
+        "color2": "#8e6639",
+        "color3": "#ddbf8f",
+        "color4": "#753d31",
+        "color5": "#c39377",
+        "color6": "#858181",
+        "color7": "#c4c4c4",
+        "color8": "#2b2e30",
+        "color9": "#fd843b",
+        "color10": "#c5853d",
+        "color11": "#fffda2",
+        "color12": "#a24834",
+        "color13": "#ffb986",
+        "color14": "#bd9696",
+        "color15": "#ffffff"
+    }
+}

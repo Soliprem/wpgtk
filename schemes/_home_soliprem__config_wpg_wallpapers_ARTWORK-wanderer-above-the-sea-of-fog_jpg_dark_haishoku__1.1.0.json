@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/ARTWORK-wanderer-above-the-sea-of-fog.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#171717",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#171717",
+        "color1": "#5b5651",
+        "color2": "#939ca3",
+        "color3": "#a3a49e",
+        "color4": "#79838d",
+        "color5": "#93a0af",
+        "color6": "#8a98aa",
+        "color7": "#c5c5c5",
+        "color8": "#303030",
+        "color9": "#816f5e",
+        "color10": "#abcde7",
+        "color11": "#e1eab8",
+        "color12": "#8caac8",
+        "color13": "#aacef8",
+        "color14": "#9fc3f0",
+        "color15": "#ffffff"
+    }
+}

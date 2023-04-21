@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/straight-out-of-a-fairytale-i4.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#15171a",
+        "foreground": "#feffff",
+        "cursor": "#feffff"
+    },
+    "colors": {
+        "color0": "#15171a",
+        "color1": "#6567a0",
+        "color2": "#243c73",
+        "color3": "#3f5992",
+        "color4": "#4467bb",
+        "color5": "#b592e2",
+        "color6": "#7a7cc3",
+        "color7": "#c4c5c5",
+        "color8": "#2b2f35",
+        "color9": "#7276e0",
+        "color10": "#244a9f",
+        "color11": "#446ecb",
+        "color12": "#477fff",
+        "color13": "#e8a5ff",
+        "color14": "#8a8dff",
+        "color15": "#feffff"
+    }
+}

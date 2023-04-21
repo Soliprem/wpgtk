@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Windows-10-wallpapers-in-4K.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#14181c",
+        "foreground": "#fdffff",
+        "cursor": "#fdffff"
+    },
+    "colors": {
+        "color0": "#14181c",
+        "color1": "#0183e0",
+        "color2": "#004785",
+        "color3": "#6ecffc",
+        "color4": "#0261af",
+        "color5": "#579ecf",
+        "color6": "#15b8fd",
+        "color7": "#c4c5c6",
+        "color8": "#283039",
+        "color9": "#01aaff",
+        "color10": "#015cab",
+        "color11": "#77ffff",
+        "color12": "#017ee5",
+        "color13": "#5dd0ff",
+        "color14": "#09f6ff",
+        "color15": "#fdffff"
+    }
+}

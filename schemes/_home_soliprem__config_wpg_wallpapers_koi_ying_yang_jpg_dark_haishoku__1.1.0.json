@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/koi_ying_yang.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191918",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191918",
+        "color1": "#8b5b49",
+        "color2": "#2b4d5a",
+        "color3": "#aa715c",
+        "color4": "#3a6271",
+        "color5": "#737375",
+        "color6": "#6b3e2e",
+        "color7": "#c5c5c5",
+        "color8": "#323230",
+        "color9": "#c27051",
+        "color10": "#2f677d",
+        "color11": "#ee8b66",
+        "color12": "#40849e",
+        "color13": "#8686a7",
+        "color14": "#954b31",
+        "color15": "#ffffff"
+    }
+}

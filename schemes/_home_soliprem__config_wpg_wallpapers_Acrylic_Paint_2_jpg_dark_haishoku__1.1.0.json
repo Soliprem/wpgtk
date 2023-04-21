@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Acrylic_Paint_2.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#151617",
+        "foreground": "#fefeff",
+        "cursor": "#fefeff"
+    },
+    "colors": {
+        "color0": "#151617",
+        "color1": "#20567a",
+        "color2": "#5d727e",
+        "color3": "#063269",
+        "color4": "#1769a4",
+        "color5": "#7d96a1",
+        "color6": "#62859c",
+        "color7": "#c4c4c5",
+        "color8": "#2c2f31",
+        "color9": "#1f71a8",
+        "color10": "#6a98b1",
+        "color11": "#01408f",
+        "color12": "#118ae1",
+        "color13": "#8fcae3",
+        "color14": "#6eb0db",
+        "color15": "#fefeff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/courtnie-tosana-school-of-dolphins-in-australia.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161c1e",
+        "foreground": "#fdffff",
+        "cursor": "#fdffff"
+    },
+    "colors": {
+        "color0": "#161c1e",
+        "color1": "#0bb5b4",
+        "color2": "#1f8890",
+        "color3": "#74e1e1",
+        "color4": "#185b72",
+        "color5": "#689aa3",
+        "color6": "#19d7d3",
+        "color7": "#c4c6c6",
+        "color8": "#2b373b",
+        "color9": "#01f7f6",
+        "color10": "#1cbac6",
+        "color11": "#80ffff",
+        "color12": "#167a9d",
+        "color13": "#75d4e5",
+        "color14": "#10ffff",
+        "color15": "#fdffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/JrdFmx3.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181719",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#181719",
+        "color1": "#69496d",
+        "color2": "#bb9397",
+        "color3": "#d8bf9f",
+        "color4": "#383767",
+        "color5": "#be9ab2",
+        "color6": "#8e7186",
+        "color7": "#c5c5c5",
+        "color8": "#312e33",
+        "color9": "#915399",
+        "color10": "#ffa9b2",
+        "color11": "#fffbb6",
+        "color12": "#3e3d90",
+        "color13": "#ffb1ee",
+        "color14": "#c982b5",
+        "color15": "#ffffff"
+    }
+}

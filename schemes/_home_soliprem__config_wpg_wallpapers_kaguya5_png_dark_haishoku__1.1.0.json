@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/kaguya5.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161719",
+        "foreground": "#feffff",
+        "cursor": "#feffff"
+    },
+    "colors": {
+        "color0": "#161719",
+        "color1": "#a5424f",
+        "color2": "#435971",
+        "color3": "#633844",
+        "color4": "#263b5a",
+        "color5": "#6a5f6f",
+        "color6": "#8c9fb0",
+        "color7": "#c4c5c5",
+        "color8": "#2d2f33",
+        "color9": "#e5465b",
+        "color10": "#4b739e",
+        "color11": "#8a3e53",
+        "color12": "#294b7d",
+        "color13": "#8e6e9d",
+        "color14": "#a1cff9",
+        "color15": "#feffff"
+    }
+}

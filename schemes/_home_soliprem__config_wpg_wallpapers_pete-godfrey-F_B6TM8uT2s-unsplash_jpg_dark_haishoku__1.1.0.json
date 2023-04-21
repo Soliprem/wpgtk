@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/pete-godfrey-F_B6TM8uT2s-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#241a15",
+        "foreground": "#fffdfc",
+        "cursor": "#fffdfc"
+    },
+    "colors": {
+        "color0": "#241a15",
+        "color1": "#da6d16",
+        "color2": "#9b5d0f",
+        "color3": "#d88d1e",
+        "color4": "#d67037",
+        "color5": "#d6774a",
+        "color6": "#d59353",
+        "color7": "#c8c5c4",
+        "color8": "#433027",
+        "color9": "#ff8b0c",
+        "color10": "#d47a08",
+        "color11": "#ffba16",
+        "color12": "#ff8c35",
+        "color13": "#ff934d",
+        "color14": "#ffbe58",
+        "color15": "#fffdfc"
+    }
+}

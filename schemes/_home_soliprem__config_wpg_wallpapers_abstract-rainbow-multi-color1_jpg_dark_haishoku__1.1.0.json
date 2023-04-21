@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/abstract-rainbow-multi-color1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161418",
+        "foreground": "#fefeff",
+        "cursor": "#fefeff"
+    },
+    "colors": {
+        "color0": "#161418",
+        "color1": "#d21d05",
+        "color2": "#801007",
+        "color3": "#db8008",
+        "color4": "#020dc8",
+        "color5": "#02077f",
+        "color6": "#087fca",
+        "color7": "#c4c4c5",
+        "color8": "#2e2a33",
+        "color9": "#ff2101",
+        "color10": "#ae0d01",
+        "color11": "#ffa701",
+        "color12": "#010fff",
+        "color13": "#0107a6",
+        "color14": "#01a7ff",
+        "color15": "#fefeff"
+    }
+}

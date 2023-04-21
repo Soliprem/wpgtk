@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Hands.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#141515",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#141515",
+        "color1": "#6c3062",
+        "color2": "#2f562a",
+        "color3": "#b09c80",
+        "color4": "#756268",
+        "color5": "#675e3c",
+        "color6": "#7e9673",
+        "color7": "#c4c4c4",
+        "color8": "#2c2e2e",
+        "color9": "#963486",
+        "color10": "#36782e",
+        "color11": "#f8ce92",
+        "color12": "#a67182",
+        "color13": "#908043",
+        "color14": "#9dd484",
+        "color15": "#ffffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/bird.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#28231f",
+        "foreground": "#fffffd",
+        "cursor": "#fffffd"
+    },
+    "colors": {
+        "color0": "#28231f",
+        "color1": "#cda26e",
+        "color2": "#e1c569",
+        "color3": "#e7cf5f",
+        "color4": "#e0c5a4",
+        "color5": "#d2b293",
+        "color6": "#e5ceae",
+        "color7": "#c9c8c7",
+        "color8": "#443b34",
+        "color9": "#ffd47a",
+        "color10": "#ffff73",
+        "color11": "#ffff66",
+        "color12": "#ffffbc",
+        "color13": "#ffe7a7",
+        "color14": "#ffffc2",
+        "color15": "#fffffd"
+    }
+}

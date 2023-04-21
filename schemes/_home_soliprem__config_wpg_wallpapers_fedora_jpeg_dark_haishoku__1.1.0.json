@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/fedora.jpeg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#141518",
+        "foreground": "#fefeff",
+        "cursor": "#fefeff"
+    },
+    "colors": {
+        "color0": "#141518",
+        "color1": "#02245f",
+        "color2": "#617793",
+        "color3": "#6e8aa6",
+        "color4": "#205c8a",
+        "color5": "#82a6bc",
+        "color6": "#0483b5",
+        "color7": "#c4c4c5",
+        "color8": "#2a2c33",
+        "color9": "#012e7d",
+        "color10": "#6e98ce",
+        "color11": "#7db3e9",
+        "color12": "#1e79be",
+        "color13": "#94dcff",
+        "color14": "#01acef",
+        "color15": "#fefeff"
+    }
+}
