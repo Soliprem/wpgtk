@@ -94,8 +94,6 @@ window#waybar.hidden {{
 
 #workspaces button.active {{
 	color: {color10};
-    border-top: 2px solid {color10};
-    border-bottom: 2px solid {color10};
 }}
 
 #workspaces button:hover {{
@@ -103,8 +101,6 @@ window#waybar.hidden {{
 	box-shadow: inherit;
 	text-shadow: inherit;
 	color: {color15};
-    border-color: {color15};
-    color: {color15};
 }}
 
 #workspaces button.focused:hover {{
