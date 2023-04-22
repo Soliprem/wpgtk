@@ -20,8 +20,8 @@ window#waybar.hidden {{
 	padding-right: 10px;
 	border-radius: 10px;
 	transition: none;
-    color: transparent;
-	background: transparent;
+  color: {color15};
+  background: {color8};
 }}
 #tags {{
 	margin-top: 6px;
@@ -81,22 +81,15 @@ window#waybar.hidden {{
 	margin-bottom: 0px;
 	padding-right: 5px;
 	border-radius: 10px;
-	background: {color0};
+	background: {color4};
 	transition: none;
 }}
 
 #workspaces button {{
 	transition: none;
-	color: {color7};
+	color: {color15};
 	background: transparent;
 	border-radius: 2px;
-}}
-
-#workspaces button.occupied {{
-	transition: none;
-	color: {color9};
-	background: transparent;
-	font-size: 4px;
 }}
 
 #workspaces button.active {{
@@ -121,11 +114,6 @@ window#waybar.hidden {{
 #workspaces button.urgent {{
         border-top: 2px solid #fb4934;
         border-bottom: 2px solid #fb4934;
-}}
-
-#window,
-#workspaces {{
-        margin: 0 4px;
 }}
 
 .modules-left > widget:first-child > #workspaces {{
