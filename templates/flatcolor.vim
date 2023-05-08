@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/user/Pictures/winter-purple.jpg"
+let background = "#171718"
+let foreground = "#ffffff"
+let cursor     = "#ffffff"
+
+" Colors
+let color0  = "#171718"
+let color1  = "#6b4d73"
+let color2  = "#877b88"
+let color3  = "#96b495"
+let color4  = "#4f4b61"
+let color5  = "#b99ab0"
+let color6  = "#ac97a3"
+let color7  = "#c5c5c5"
+let color8  = "#2f2f31"
+let color9  = "#9257a1"
+let color10 = "#bd8fc1"
+let color11 = "#afffac"
+let color12 = "#5f5689"
+let color13 = "#ffb2ee"
+let color14 = "#f4afd6"
+let color15 = "#ffffff"

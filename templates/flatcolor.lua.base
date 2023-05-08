@@ -1,0 +1,16 @@
+return {
+	dark0_hard = "{color0}",
+	dark0 = "{color0}",
+	dark0_soft = "{color0}",
+	dark1 = "{color1}",
+	dark2 = "{color2}",
+	dark3 = "{color3}",
+	dark4 = "{color4}",
+	light0_hard = "{color15}",
+	light0 = "{color15}",
+	light0_soft = "{color15}",
+	light1 = "{color14}",
+	light2 = "{color7}",
+	light3 = "{color8}",
+	light4 = "{color6}",
+}
