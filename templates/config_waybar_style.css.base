@@ -162,7 +162,7 @@ window#waybar.hidden {{
 }}
 
 #battery.critical:not(.charging) {{
-    background-color: #B5E8E0;
+    background-color: {color1};
     color: #161320;
     animation-name: blink;
     animation-duration: 0.5s;

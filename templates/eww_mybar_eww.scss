@@ -8,8 +8,8 @@
 
 .bars {
     background-image: url("images/background.png");
-    background-color: #171718;
-    border: 5px solid #9257a1;
+    background-color: #181818;
+    border: 5px solid #5c6f79;
     border-radius: 40px;
 }
 
@@ -39,19 +39,19 @@
 .music_box { 
 }
 .music_box_popup {
-    background-color: #171718;
+    background-color: #181818;
     background-image: url("images/background.png");
-    border: solid 5px #9257a1;
+    border: solid 5px #5c6f79;
     border-radius: 0 0 20 20;
 }
 .media_art {
-    border-right: solid 5px #9257a1;
-    border-left: solid 5px #9257a1;
+    border-right: solid 5px #5c6f79;
+    border-left: solid 5px #5c6f79;
     margin-left: 14px;
     margin-right: 3px;
 }
 .media_art_popup {
-    border: solid 5px #f4afd6;
+    border: solid 5px #c0e1fd;
     border-radius: 5px;
     margin: 15 0 15 15;
 }
@@ -76,8 +76,8 @@
 .media_artist_popup {
     font-size: 14px;
     margin: 0 15 0 10;
-    color: #5f5689;
-//    background-color: #2f2f31;
+    color: #5e7a7e;
+//    background-color: #313131;
 }
 .media_buttons {
     font-size: 20px;
@@ -88,7 +88,7 @@
     font-size: 30px;
     margin-right: 10px;
     margin-left: 10px;
-    color: #5f5689;
+    color: #5e7a7e;
 }
 .move_popup {
     font-size: 30px;
@@ -100,7 +100,7 @@
     font-size: 30px;
     margin-right: 10px;
     margin-left: 10px;
-    color: #ffb2ee;
+    color: #b9d9f5;
 }
 .media_buttons_box_popup {
     
@@ -111,7 +111,7 @@
 }
 .bar_normal_popup scale trough highlight {
     all: unset;
-    background-color: #6b4d73;
+    background-color: #4f5355;
     border-radius: 15px;
 }
 .bar_normal_popup scale trough {
@@ -120,11 +120,11 @@
     min-height: 15px;
     margin: 0 15 15 15;
     border-radius: 15px;
-    border: solid 5px #f4afd6;
+    border: solid 5px #c0e1fd;
 }
 .bar_highlighted_popup scale trough highlight {
     all: unset;
-    background-color: #f4afd6;
+    background-color: #c0e1fd;
     border-radius: 15px;
 }
 .bar_highlighted_popup scale trough {
@@ -133,11 +133,11 @@
     min-height: 15px;
     margin: 0 15 15 15;
     border-radius: 15px;
-    border: solid 5px #f4afd6;
+    border: solid 5px #c0e1fd;
 }
 .bar_normal scale trough highlight {
     all: unset;
-    background-color: #4f4b61;
+    background-color: #515859;
     border-radius: 10px;
 }
 .bar_normal scale trough {
@@ -151,7 +151,7 @@
 }
 .bar_highlighted scale trough highlight {
     all: unset;
-    background-color: #5f5689;
+    background-color: #5e7a7e;
     border-radius: 10px;
 }
 .bar_highlighted scale trough {
@@ -177,16 +177,16 @@
 }
 .center_revealers {
     border-radius: 5px;
-    background-color: rgba(23,23,24, 1);
+    background-color: rgba(24,24,24, 1);
     min-height: 32px;
-    border: solid 2px #afffac;
-    color: #5f5689;
+    border: solid 2px #8fb2bc;
+    color: #5e7a7e;
 }
 .center_info scale trough highlight {
     all: unset;
-    background: #96b495;
+    background: #7b8284;
     border-radius: 10px;            
-    border: solid 2px #afffac;
+    border: solid 2px #8fb2bc;
 }
 .center_info scale trough {
     all: unset;
@@ -199,7 +199,7 @@
 
 // RIGHT MODULES 
 .power_button {
-    color: #ffb2ee;
+    color: #b9d9f5;
     font-size: 20px;
     margin: -10 15 -10 15;
 }
@@ -234,10 +234,10 @@
 }
 .cal {
     font-size: 16px;
-    background-color: #171718;
+    background-color: #181818;
     background-image: url("images/background.png");
     color: #ffffff;
-    border: 5px solid #9257a1;
+    border: 5px solid #5c6f79;
     border-radius: 0 0 20 20;
     padding: 10px;
 }
