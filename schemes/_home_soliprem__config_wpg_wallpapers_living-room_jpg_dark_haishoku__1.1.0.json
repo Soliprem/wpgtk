@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/living-room.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#211c18",
+        "foreground": "#fffffd",
+        "cursor": "#fffffd"
+    },
+    "colors": {
+        "color0": "#211c18",
+        "color1": "#a76834",
+        "color2": "#b89d82",
+        "color3": "#ceaf93",
+        "color4": "#d0b99e",
+        "color5": "#bbafac",
+        "color6": "#c4bdb9",
+        "color7": "#c7c6c5",
+        "color8": "#3e342c",
+        "color9": "#e78535",
+        "color10": "#ffcc94",
+        "color11": "#ffe2a8",
+        "color12": "#fff2b5",
+        "color13": "#ffd5c8",
+        "color14": "#ffeed7",
+        "color15": "#fffffd"
+    }
+}

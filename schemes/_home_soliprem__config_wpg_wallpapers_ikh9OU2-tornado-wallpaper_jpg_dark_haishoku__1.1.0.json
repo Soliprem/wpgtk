@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/ikh9OU2-tornado-wallpaper.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191a1a",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191a1a",
+        "color1": "#5d5238",
+        "color2": "#6e654b",
+        "color3": "#b2a37b",
+        "color4": "#4b515d",
+        "color5": "#cabc97",
+        "color6": "#7f7a68",
+        "color7": "#c5c5c5",
+        "color8": "#313333",
+        "color9": "#826e3f",
+        "color10": "#9a8955",
+        "color11": "#fadc8c",
+        "color12": "#566583",
+        "color13": "#fffead",
+        "color14": "#b4a778",
+        "color15": "#ffffff"
+    }
+}

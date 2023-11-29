@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/GENERAL-ipad-rose-gold.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1c1b19",
+        "foreground": "#fffffe",
+        "cursor": "#fffffe"
+    },
+    "colors": {
+        "color0": "#1c1b19",
+        "color1": "#60543f",
+        "color2": "#6f654b",
+        "color3": "#f2b4a2",
+        "color4": "#f6aaab",
+        "color5": "#ef9590",
+        "color6": "#8c8069",
+        "color7": "#c6c6c5",
+        "color8": "#363430",
+        "color9": "#877047",
+        "color10": "#9c8855",
+        "color11": "#ffd5b3",
+        "color12": "#ffb6b8",
+        "color13": "#ffaba2",
+        "color14": "#c5ab78",
+        "color15": "#fffffe"
+    }
+}

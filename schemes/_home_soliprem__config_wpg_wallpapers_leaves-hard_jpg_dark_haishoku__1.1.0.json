@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/leaves-hard.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#151616",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#151616",
+        "color1": "#667051",
+        "color2": "#55664e",
+        "color3": "#33422e",
+        "color4": "#3c4d3d",
+        "color5": "#27382b",
+        "color6": "#2b3d33",
+        "color7": "#c4c4c4",
+        "color8": "#2d2f2f",
+        "color9": "#899e5c",
+        "color10": "#699059",
+        "color11": "#3e5d34",
+        "color12": "#456c47",
+        "color13": "#2c4e34",
+        "color14": "#315641",
+        "color15": "#ffffff"
+    }
+}

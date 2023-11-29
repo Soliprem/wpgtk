@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/PLACES-yacht.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#151617",
+        "foreground": "#fefeff",
+        "cursor": "#fefeff"
+    },
+    "colors": {
+        "color0": "#151617",
+        "color1": "#73583f",
+        "color2": "#425b68",
+        "color3": "#b18463",
+        "color4": "#263e54",
+        "color5": "#74716e",
+        "color6": "#5f4334",
+        "color7": "#c4c4c5",
+        "color8": "#2c2f31",
+        "color9": "#a17146",
+        "color10": "#4a7992",
+        "color11": "#f8a86e",
+        "color12": "#295075",
+        "color13": "#a59280",
+        "color14": "#85543a",
+        "color15": "#fefeff"
+    }
+}

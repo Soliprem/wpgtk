@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/nyc3.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161718",
+        "foreground": "#feffff",
+        "cursor": "#feffff"
+    },
+    "colors": {
+        "color0": "#161718",
+        "color1": "#493238",
+        "color2": "#4d443f",
+        "color3": "#213449",
+        "color4": "#50647f",
+        "color5": "#314156",
+        "color6": "#485163",
+        "color7": "#c4c5c5",
+        "color8": "#2d3032",
+        "color9": "#663944",
+        "color10": "#6d5548",
+        "color11": "#234365",
+        "color12": "#5a80b2",
+        "color13": "#365378",
+        "color14": "#52658b",
+        "color15": "#feffff"
+    }
+}

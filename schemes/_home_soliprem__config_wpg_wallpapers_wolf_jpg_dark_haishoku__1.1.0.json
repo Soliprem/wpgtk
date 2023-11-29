@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/wolf.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191919",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191919",
+        "color1": "#a56358",
+        "color2": "#644649",
+        "color3": "#a46e63",
+        "color4": "#4e4346",
+        "color5": "#7b6163",
+        "color6": "#755456",
+        "color7": "#c5c5c5",
+        "color8": "#323232",
+        "color9": "#e67461",
+        "color10": "#8d4f56",
+        "color11": "#e6836f",
+        "color12": "#6e4d56",
+        "color13": "#ae6f74",
+        "color14": "#a56064",
+        "color15": "#ffffff"
+    }
+}

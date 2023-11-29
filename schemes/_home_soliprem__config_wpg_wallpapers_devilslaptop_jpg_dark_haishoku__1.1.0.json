@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/devilslaptop.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181818",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#181818",
+        "color1": "#e16913",
+        "color2": "#4c6261",
+        "color3": "#898375",
+        "color4": "#484844",
+        "color5": "#816e60",
+        "color6": "#83a497",
+        "color7": "#c5c5c5",
+        "color8": "#313131",
+        "color9": "#ff8508",
+        "color10": "#578a88",
+        "color11": "#c2b087",
+        "color12": "#66664f",
+        "color13": "#b68c6e",
+        "color14": "#97e8c8",
+        "color15": "#ffffff"
+    }
+}

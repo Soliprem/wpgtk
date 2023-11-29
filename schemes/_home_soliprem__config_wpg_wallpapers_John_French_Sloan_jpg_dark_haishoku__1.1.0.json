@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/John_French_Sloan.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#171718",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#171718",
+        "color1": "#634a37",
+        "color2": "#766640",
+        "color3": "#466689",
+        "color4": "#35466e",
+        "color5": "#6b818a",
+        "color6": "#738fa5",
+        "color7": "#c5c5c5",
+        "color8": "#2f2f31",
+        "color9": "#8a5e3d",
+        "color10": "#a58947",
+        "color11": "#4d83bf",
+        "color12": "#3a5699",
+        "color13": "#7baec3",
+        "color14": "#83bce8",
+        "color15": "#ffffff"
+    }
+}

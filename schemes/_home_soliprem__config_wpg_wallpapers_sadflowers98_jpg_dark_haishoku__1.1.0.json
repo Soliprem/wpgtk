@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/sadflowers98.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181818",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#181818",
+        "color1": "#a84640",
+        "color2": "#463927",
+        "color3": "#7b5637",
+        "color4": "#3b243d",
+        "color5": "#6b3e38",
+        "color6": "#653d2a",
+        "color7": "#c5c5c5",
+        "color8": "#313131",
+        "color9": "#e94d44",
+        "color10": "#624b2b",
+        "color11": "#ab6e3b",
+        "color12": "#512855",
+        "color13": "#95483e",
+        "color14": "#8c4b2d",
+        "color15": "#ffffff"
+    }
+}

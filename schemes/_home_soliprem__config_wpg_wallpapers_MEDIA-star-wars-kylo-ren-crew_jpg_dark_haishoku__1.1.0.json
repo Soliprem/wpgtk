@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/MEDIA-star-wars-kylo-ren-crew.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191817",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191817",
+        "color1": "#675343",
+        "color2": "#554336",
+        "color3": "#a08770",
+        "color4": "#7d7164",
+        "color5": "#a49a8b",
+        "color6": "#93988e",
+        "color7": "#c5c5c5",
+        "color8": "#33312e",
+        "color9": "#906a4c",
+        "color10": "#77553d",
+        "color11": "#e1ae7f",
+        "color12": "#b19373",
+        "color13": "#e8cca1",
+        "color14": "#bfd8a5",
+        "color15": "#ffffff"
+    }
+}

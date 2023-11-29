@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/30494_akira.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161616",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#161616",
+        "color1": "#5f4a35",
+        "color2": "#726347",
+        "color3": "#e1c87c",
+        "color4": "#4b5f6b",
+        "color5": "#737f7e",
+        "color6": "#9ab8c5",
+        "color7": "#c4c4c4",
+        "color8": "#2f2f2f",
+        "color9": "#85603b",
+        "color10": "#a08450",
+        "color11": "#ffff8a",
+        "color12": "#557e96",
+        "color13": "#85b4b0",
+        "color14": "#b1f8ff",
+        "color15": "#ffffff"
+    }
+}

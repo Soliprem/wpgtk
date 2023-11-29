@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/gruvbox_sunset-scenery-clouds-digital-art-4k-wallpaper-3840x2160-uhdpaper.com-531.0_a.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191919",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191919",
+        "color1": "#e03b32",
+        "color2": "#864168",
+        "color3": "#83a596",
+        "color4": "#086677",
+        "color5": "#cf8298",
+        "color6": "#468386",
+        "color7": "#c5c5c5",
+        "color8": "#323232",
+        "color9": "#ff3c2f",
+        "color10": "#bb4788",
+        "color11": "#97e9c5",
+        "color12": "#018aa3",
+        "color13": "#ff93bc",
+        "color14": "#4db6bb",
+        "color15": "#ffffff"
+    }
+}

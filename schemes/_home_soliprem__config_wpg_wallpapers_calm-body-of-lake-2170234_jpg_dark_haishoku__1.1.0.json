@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/calm-body-of-lake-2170234.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181717",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#181717",
+        "color1": "#c66b25",
+        "color2": "#81766b",
+        "color3": "#c5b88a",
+        "color4": "#434958",
+        "color5": "#855a3e",
+        "color6": "#6f3d22",
+        "color7": "#c5c5c5",
+        "color8": "#312f2f",
+        "color9": "#ff8920",
+        "color10": "#b6997b",
+        "color11": "#fffb9d",
+        "color12": "#4d5a7c",
+        "color13": "#b97243",
+        "color14": "#994c22",
+        "color15": "#ffffff"
+    }
+}

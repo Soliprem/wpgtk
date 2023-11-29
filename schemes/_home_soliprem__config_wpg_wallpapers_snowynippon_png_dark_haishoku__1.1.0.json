@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/snowynippon.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161818",
+        "foreground": "#feffff",
+        "cursor": "#feffff"
+    },
+    "colors": {
+        "color0": "#161818",
+        "color1": "#4c564e",
+        "color2": "#43666d",
+        "color3": "#647b7e",
+        "color4": "#294b58",
+        "color5": "#9bc1c6",
+        "color6": "#7aa1ac",
+        "color7": "#c4c5c5",
+        "color8": "#2d3232",
+        "color9": "#587a5f",
+        "color10": "#4b8c99",
+        "color11": "#73abb2",
+        "color12": "#2c657a",
+        "color13": "#b2ffff",
+        "color14": "#8bdbf2",
+        "color15": "#feffff"
+    }
+}

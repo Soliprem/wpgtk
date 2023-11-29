@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/mushrooms-1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181718",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#181718",
+        "color1": "#6a5041",
+        "color2": "#374c36",
+        "color3": "#6c6d6c",
+        "color4": "#3c535f",
+        "color5": "#543931",
+        "color6": "#82959d",
+        "color7": "#c5c5c5",
+        "color8": "#312f31",
+        "color9": "#946549",
+        "color10": "#3f6b3d",
+        "color11": "#7e9b7e",
+        "color12": "#436f85",
+        "color13": "#754537",
+        "color14": "#96c9de",
+        "color15": "#ffffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Snatcher.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b1a1a",
+        "foreground": "#fffefe",
+        "cursor": "#fffefe"
+    },
+    "colors": {
+        "color0": "#1b1a1a",
+        "color1": "#ea303d",
+        "color2": "#928174",
+        "color3": "#e78379",
+        "color4": "#8c3337",
+        "color5": "#e86160",
+        "color6": "#e9aa99",
+        "color7": "#c6c5c5",
+        "color8": "#343232",
+        "color9": "#ff2b3f",
+        "color10": "#cea585",
+        "color11": "#ff9786",
+        "color12": "#c2353c",
+        "color13": "#ff6967",
+        "color14": "#ffcead",
+        "color15": "#fffefe"
+    }
+}

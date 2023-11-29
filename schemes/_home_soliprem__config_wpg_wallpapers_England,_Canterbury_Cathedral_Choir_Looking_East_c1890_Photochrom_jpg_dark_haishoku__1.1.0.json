@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/England,_Canterbury_Cathedral_Choir_Looking_East_c1890_Photochrom.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b1918",
+        "foreground": "#fffefe",
+        "cursor": "#fffefe"
+    },
+    "colors": {
+        "color0": "#1b1918",
+        "color1": "#665444",
+        "color2": "#614d41",
+        "color3": "#ac9984",
+        "color4": "#87786a",
+        "color5": "#a69280",
+        "color6": "#958f87",
+        "color7": "#c6c5c5",
+        "color8": "#35312f",
+        "color9": "#8f6c4d",
+        "color10": "#88614a",
+        "color11": "#f3c797",
+        "color12": "#bf9b7a",
+        "color13": "#eabc93",
+        "color14": "#d4bc9d",
+        "color15": "#fffefe"
+    }
+}

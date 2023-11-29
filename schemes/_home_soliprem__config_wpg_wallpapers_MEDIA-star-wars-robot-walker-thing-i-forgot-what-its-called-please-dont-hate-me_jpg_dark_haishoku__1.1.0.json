@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/MEDIA-star-wars-robot-walker-thing-i-forgot-what-its-called-please-dont-hate-me.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181818",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#181818",
+        "color1": "#4f5355",
+        "color2": "#535553",
+        "color3": "#7b8284",
+        "color4": "#515859",
+        "color5": "#9fa6ac",
+        "color6": "#a5acb2",
+        "color7": "#c5c5c5",
+        "color8": "#313131",
+        "color9": "#5c6f79",
+        "color10": "#617961",
+        "color11": "#8fb2bc",
+        "color12": "#5e7a7e",
+        "color13": "#b9d9f5",
+        "color14": "#c0e1fd",
+        "color15": "#ffffff"
+    }
+}

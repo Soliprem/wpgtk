@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/TrS2ip3.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b1917",
+        "foreground": "#fffefe",
+        "cursor": "#fffefe"
+    },
+    "colors": {
+        "color0": "#1b1917",
+        "color1": "#685536",
+        "color2": "#5c472d",
+        "color3": "#aa8e70",
+        "color4": "#7c7067",
+        "color5": "#88807c",
+        "color6": "#9a836e",
+        "color7": "#c6c5c5",
+        "color8": "#36322d",
+        "color9": "#91703b",
+        "color10": "#805d31",
+        "color11": "#efb97f",
+        "color12": "#af8f77",
+        "color13": "#c1a090",
+        "color14": "#d9a97d",
+        "color15": "#fffefe"
+    }
+}

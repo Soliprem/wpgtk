@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/chineseneonsign.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#151718",
+        "foreground": "#feffff",
+        "cursor": "#feffff"
+    },
+    "colors": {
+        "color0": "#151718",
+        "color1": "#da1673",
+        "color2": "#1b586b",
+        "color3": "#795d76",
+        "color4": "#18335b",
+        "color5": "#7f1d5d",
+        "color6": "#790b3a",
+        "color7": "#c4c5c5",
+        "color8": "#2c3032",
+        "color9": "#ff0c94",
+        "color10": "#1a7793",
+        "color11": "#ab6ba4",
+        "color12": "#17407d",
+        "color13": "#af1b7c",
+        "color14": "#a6054a",
+        "color15": "#feffff"
+    }
+}

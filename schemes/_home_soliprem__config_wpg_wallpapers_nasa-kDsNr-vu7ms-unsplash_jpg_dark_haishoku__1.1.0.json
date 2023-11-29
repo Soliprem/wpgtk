@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/nasa-kDsNr-vu7ms-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#171a18",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#171a18",
+        "color1": "#888471",
+        "color2": "#83cfc9",
+        "color3": "#b5997b",
+        "color4": "#1e787c",
+        "color5": "#bfb091",
+        "color6": "#37c4c2",
+        "color7": "#c5c5c5",
+        "color8": "#2e3430",
+        "color9": "#c0b682",
+        "color10": "#94ffff",
+        "color11": "#ffc78c",
+        "color12": "#1ca5ab",
+        "color13": "#ffeca6",
+        "color14": "#37ffff",
+        "color15": "#ffffff"
+    }
+}

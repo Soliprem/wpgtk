@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Sandswept.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b1917",
+        "foreground": "#fffefe",
+        "cursor": "#fffefe"
+    },
+    "colors": {
+        "color0": "#1b1917",
+        "color1": "#c67225",
+        "color2": "#6b6a71",
+        "color3": "#81502c",
+        "color4": "#415c76",
+        "color5": "#5d3a21",
+        "color6": "#7395b0",
+        "color7": "#c6c5c5",
+        "color8": "#36322d",
+        "color9": "#ff9320",
+        "color10": "#807ba1",
+        "color11": "#b2662d",
+        "color12": "#4877a5",
+        "color13": "#814a22",
+        "color14": "#82c3f7",
+        "color15": "#fffefe"
+    }
+}

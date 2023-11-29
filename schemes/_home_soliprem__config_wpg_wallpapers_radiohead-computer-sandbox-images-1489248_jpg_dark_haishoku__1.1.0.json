@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/radiohead-computer-sandbox-images-1489248.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181919",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#181919",
+        "color1": "#374c64",
+        "color2": "#476275",
+        "color3": "#6c8391",
+        "color4": "#337ec5",
+        "color5": "#7c9eb9",
+        "color6": "#96bbce",
+        "color7": "#c5c5c5",
+        "color8": "#303232",
+        "color9": "#3d628c",
+        "color10": "#5081a4",
+        "color11": "#7caecc",
+        "color12": "#32a4ff",
+        "color13": "#8dcfff",
+        "color14": "#abfaff",
+        "color15": "#ffffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/dalek.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161719",
+        "foreground": "#feffff",
+        "cursor": "#feffff"
+    },
+    "colors": {
+        "color0": "#161719",
+        "color1": "#722140",
+        "color2": "#134447",
+        "color3": "#815641",
+        "color4": "#1d5156",
+        "color5": "#6e2932",
+        "color6": "#1a343e",
+        "color7": "#c4c5c5",
+        "color8": "#2d2f33",
+        "color9": "#9d2150",
+        "color10": "#125d62",
+        "color11": "#b46b47",
+        "color12": "#1e6f77",
+        "color13": "#982b39",
+        "color14": "#1c4656",
+        "color15": "#feffff"
+    }
+}

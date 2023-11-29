@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/jon-flobrant-YD1uvthZwg4-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1a1b1c",
+        "foreground": "#feffff",
+        "cursor": "#feffff"
+    },
+    "colors": {
+        "color0": "#1a1b1c",
+        "color1": "#818592",
+        "color2": "#5d6577",
+        "color3": "#dbc596",
+        "color4": "#535b6d",
+        "color5": "#acb2be",
+        "color6": "#a4aab8",
+        "color7": "#c5c6c6",
+        "color8": "#323435",
+        "color9": "#95a3cf",
+        "color10": "#6b7ea8",
+        "color11": "#ffffab",
+        "color12": "#5f719a",
+        "color13": "#c8dfff",
+        "color14": "#bed3ff",
+        "color15": "#feffff"
+    }
+}

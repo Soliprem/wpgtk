@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/autumn.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191a1a",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191a1a",
+        "color1": "#bc4f35",
+        "color2": "#4a6156",
+        "color3": "#c96c38",
+        "color4": "#814634",
+        "color5": "#887156",
+        "color6": "#8c6438",
+        "color7": "#c5c5c5",
+        "color8": "#313333",
+        "color9": "#ff5d35",
+        "color10": "#558970",
+        "color11": "#ff8738",
+        "color12": "#b35437",
+        "color13": "#bf9461",
+        "color14": "#c2823c",
+        "color15": "#ffffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Bruno_Ferreira_2.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161b22",
+        "foreground": "#fdffff",
+        "cursor": "#fdffff"
+    },
+    "colors": {
+        "color0": "#161b22",
+        "color1": "#78b2b2",
+        "color2": "#69979b",
+        "color3": "#dcc494",
+        "color4": "#286c9b",
+        "color5": "#8bb8a8",
+        "color6": "#639eb5",
+        "color7": "#c4c6c7",
+        "color8": "#293340",
+        "color9": "#88fafa",
+        "color10": "#77d2da",
+        "color11": "#ffffa8",
+        "color12": "#278ed6",
+        "color13": "#9fffe0",
+        "color14": "#6ed5fd",
+        "color15": "#fdffff"
+    }
+}

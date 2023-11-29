@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Eagle_&_Waterfall.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b1a18",
+        "foreground": "#fffefe",
+        "cursor": "#fffefe"
+    },
+    "colors": {
+        "color0": "#1b1a18",
+        "color1": "#705f34",
+        "color2": "#4d4f3b",
+        "color3": "#ccab72",
+        "color4": "#584820",
+        "color5": "#b0915b",
+        "color6": "#88774c",
+        "color7": "#c6c5c5",
+        "color8": "#35332f",
+        "color9": "#9c8038",
+        "color10": "#6b6f43",
+        "color11": "#ffe37f",
+        "color12": "#7a6021",
+        "color13": "#f6c164",
+        "color14": "#bea055",
+        "color15": "#fffefe"
+    }
+}

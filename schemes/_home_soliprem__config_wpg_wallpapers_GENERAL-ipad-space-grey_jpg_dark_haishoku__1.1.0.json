@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/GENERAL-ipad-space-grey.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181c1b",
+        "foreground": "#feffff",
+        "cursor": "#feffff"
+    },
+    "colors": {
+        "color0": "#181c1b",
+        "color1": "#66594a",
+        "color2": "#416c58",
+        "color3": "#b7a492",
+        "color4": "#377a76",
+        "color5": "#89887c",
+        "color6": "#74705b",
+        "color7": "#c5c6c6",
+        "color8": "#2f3735",
+        "color9": "#8f7454",
+        "color10": "#499773",
+        "color11": "#ffd4a8",
+        "color12": "#3baaa3",
+        "color13": "#c2bf90",
+        "color14": "#a49a68",
+        "color15": "#feffff"
+    }
+}

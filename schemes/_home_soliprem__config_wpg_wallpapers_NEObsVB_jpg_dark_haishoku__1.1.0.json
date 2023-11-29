@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/NEObsVB.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#18191a",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#18191a",
+        "color1": "#61503e",
+        "color2": "#75644f",
+        "color3": "#b5a08f",
+        "color4": "#4e6466",
+        "color5": "#c2b0a1",
+        "color6": "#7e8a86",
+        "color7": "#c5c5c5",
+        "color8": "#2f3234",
+        "color9": "#886846",
+        "color10": "#a4835a",
+        "color11": "#ffcda4",
+        "color12": "#598b90",
+        "color13": "#ffe2ba",
+        "color14": "#92c4b3",
+        "color15": "#ffffff"
+    }
+}

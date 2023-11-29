@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/typewriter.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1a1a1a",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#1a1a1a",
+        "color1": "#725d4f",
+        "color2": "#636559",
+        "color3": "#b49b8f",
+        "color4": "#7e695c",
+        "color5": "#bca79b",
+        "color6": "#928076",
+        "color7": "#c5c5c5",
+        "color8": "#333333",
+        "color9": "#a0765a",
+        "color10": "#888f67",
+        "color11": "#fec2a4",
+        "color12": "#b18569",
+        "color13": "#ffd3b3",
+        "color14": "#cea188",
+        "color15": "#ffffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/TNGHT_Cocktail_Wallpaper.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161517",
+        "foreground": "#fefeff",
+        "cursor": "#fefeff"
+    },
+    "colors": {
+        "color0": "#161517",
+        "color1": "#c1784f",
+        "color2": "#907c73",
+        "color3": "#deb990",
+        "color4": "#794139",
+        "color5": "#cd9171",
+        "color6": "#905f4b",
+        "color7": "#c4c4c5",
+        "color8": "#2f2c31",
+        "color9": "#ff9754",
+        "color10": "#cb9a84",
+        "color11": "#fff1a3",
+        "color12": "#a84b3e",
+        "color13": "#ffb67e",
+        "color14": "#c97553",
+        "color15": "#fefeff"
+    }
+}

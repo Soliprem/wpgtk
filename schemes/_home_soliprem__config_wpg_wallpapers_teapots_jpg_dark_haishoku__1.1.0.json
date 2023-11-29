@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/teapots.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b1b1a",
+        "foreground": "#fffffe",
+        "cursor": "#fffffe"
+    },
+    "colors": {
+        "color0": "#1b1b1a",
+        "color1": "#83523a",
+        "color2": "#5e5852",
+        "color3": "#aea399",
+        "color4": "#7a5e4f",
+        "color5": "#8c7868",
+        "color6": "#926943",
+        "color7": "#c6c6c5",
+        "color8": "#343432",
+        "color9": "#b6663f",
+        "color10": "#85725f",
+        "color11": "#f7d2b1",
+        "color12": "#ab7659",
+        "color13": "#c59a77",
+        "color14": "#cb8749",
+        "color15": "#fffffe"
+    }
+}

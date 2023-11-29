@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Rónyai_Balázs1.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b1b19",
+        "foreground": "#fffffe",
+        "cursor": "#fffffe"
+    },
+    "colors": {
+        "color0": "#1b1b19",
+        "color1": "#8f644a",
+        "color2": "#4a8871",
+        "color3": "#beaf7a",
+        "color4": "#745541",
+        "color5": "#d78766",
+        "color6": "#938267",
+        "color7": "#c6c6c5",
+        "color8": "#353531",
+        "color9": "#c87e52",
+        "color10": "#52be96",
+        "color11": "#ffee8a",
+        "color12": "#a26b48",
+        "color13": "#ffa66f",
+        "color14": "#cfac75",
+        "color15": "#fffffe"
+    }
+}

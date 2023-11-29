@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/desert_long.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1f1916",
+        "foreground": "#fffefd",
+        "cursor": "#fffefd"
+    },
+    "colors": {
+        "color0": "#1f1916",
+        "color1": "#a26037",
+        "color2": "#854721",
+        "color3": "#c28f67",
+        "color4": "#ac7657",
+        "color5": "#d0ac90",
+        "color6": "#b67749",
+        "color7": "#c7c5c4",
+        "color8": "#3c302a",
+        "color9": "#e07939",
+        "color10": "#b75920",
+        "color11": "#ffb772",
+        "color12": "#f09460",
+        "color13": "#ffdca4",
+        "color14": "#fd984e",
+        "color15": "#fffefd"
+    }
+}

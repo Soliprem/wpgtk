@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/wallhaven-r22d7w.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181717",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#181717",
+        "color1": "#f23e03",
+        "color2": "#5a5f63",
+        "color3": "#fe9600",
+        "color4": "#4a4f54",
+        "color5": "#fd6900",
+        "color6": "#592924",
+        "color7": "#c5c5c5",
+        "color8": "#312f2f",
+        "color9": "#ff4f01",
+        "color10": "#687c8c",
+        "color11": "#ffc201",
+        "color12": "#566677",
+        "color13": "#ff8801",
+        "color14": "#7b2e26",
+        "color15": "#ffffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/marketplace.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191918",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191918",
+        "color1": "#655143",
+        "color2": "#55613c",
+        "color3": "#777169",
+        "color4": "#555758",
+        "color5": "#6f624c",
+        "color6": "#595e5d",
+        "color7": "#c5c5c5",
+        "color8": "#323230",
+        "color9": "#8e674c",
+        "color10": "#728843",
+        "color11": "#a9947a",
+        "color12": "#63747d",
+        "color13": "#9c8256",
+        "color14": "#67867f",
+        "color15": "#ffffff"
+    }
+}

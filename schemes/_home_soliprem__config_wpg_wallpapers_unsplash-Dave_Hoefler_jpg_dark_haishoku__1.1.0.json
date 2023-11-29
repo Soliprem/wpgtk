@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/unsplash-Dave_Hoefler.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181615",
+        "foreground": "#fffefe",
+        "cursor": "#fffefe"
+    },
+    "colors": {
+        "color0": "#181615",
+        "color1": "#7a5432",
+        "color2": "#644327",
+        "color3": "#e59e5f",
+        "color4": "#937051",
+        "color5": "#b89171",
+        "color6": "#bb8957",
+        "color7": "#c5c4c4",
+        "color8": "#322e2c",
+        "color9": "#a96c35",
+        "color10": "#8b5629",
+        "color11": "#ffcc66",
+        "color12": "#cd905a",
+        "color13": "#ffba7f",
+        "color14": "#ffb25f",
+        "color15": "#fffefe"
+    }
+}

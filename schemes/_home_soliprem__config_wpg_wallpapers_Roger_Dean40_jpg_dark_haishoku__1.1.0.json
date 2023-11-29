@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Roger_Dean40.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181818",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#181818",
+        "color1": "#634a2f",
+        "color2": "#465a3c",
+        "color3": "#cbb598",
+        "color4": "#786541",
+        "color5": "#b49d80",
+        "color6": "#91816b",
+        "color7": "#c5c5c5",
+        "color8": "#313131",
+        "color9": "#8a6033",
+        "color10": "#577e44",
+        "color11": "#ffeeae",
+        "color12": "#a88748",
+        "color13": "#fdce92",
+        "color14": "#ccaa7a",
+        "color15": "#ffffff"
+    }
+}

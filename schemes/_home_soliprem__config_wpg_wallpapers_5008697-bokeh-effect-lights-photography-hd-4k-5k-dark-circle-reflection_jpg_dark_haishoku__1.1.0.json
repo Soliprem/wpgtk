@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/5008697-bokeh-effect-lights-photography-hd-4k-5k-dark-circle-reflection.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191919",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191919",
+        "color1": "#bb002b",
+        "color2": "#4a272c",
+        "color3": "#731a2b",
+        "color4": "#293536",
+        "color5": "#a30d29",
+        "color6": "#94082b",
+        "color7": "#c5c5c5",
+        "color8": "#323232",
+        "color9": "#f20138",
+        "color10": "#672b33",
+        "color11": "#9e1832",
+        "color12": "#2f4a4c",
+        "color13": "#df052e",
+        "color14": "#c90133",
+        "color15": "#ffffff"
+    }
+}

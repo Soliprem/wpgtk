@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/flowerboy.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1a1a1a",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#1a1a1a",
+        "color1": "#d05d43",
+        "color2": "#905a48",
+        "color3": "#f7cb5d",
+        "color4": "#e59048",
+        "color5": "#cba38b",
+        "color6": "#edd2a0",
+        "color7": "#c5c5c5",
+        "color8": "#333333",
+        "color9": "#ff6d45",
+        "color10": "#c96d4f",
+        "color11": "#ffff62",
+        "color12": "#ffb949",
+        "color13": "#ffce9e",
+        "color14": "#ffffb4",
+        "color15": "#ffffff"
+    }
+}

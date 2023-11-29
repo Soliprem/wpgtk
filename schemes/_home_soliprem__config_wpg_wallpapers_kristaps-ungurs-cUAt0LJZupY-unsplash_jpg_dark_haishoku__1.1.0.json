@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/kristaps-ungurs-cUAt0LJZupY-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161615",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#161615",
+        "color1": "#885934",
+        "color2": "#4d4b38",
+        "color3": "#b88f65",
+        "color4": "#653116",
+        "color5": "#aa7e54",
+        "color6": "#9e7149",
+        "color7": "#c4c4c4",
+        "color8": "#2f2f2d",
+        "color9": "#bd7237",
+        "color10": "#6c6840",
+        "color11": "#ffba70",
+        "color12": "#8b3d14",
+        "color13": "#eda35c",
+        "color14": "#dc924f",
+        "color15": "#ffffff"
+    }
+}

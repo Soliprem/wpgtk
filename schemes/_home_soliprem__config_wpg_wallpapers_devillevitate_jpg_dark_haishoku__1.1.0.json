@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/devillevitate.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181818",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#181818",
+        "color1": "#ee7315",
+        "color2": "#4f6559",
+        "color3": "#848275",
+        "color4": "#457578",
+        "color5": "#817364",
+        "color6": "#374542",
+        "color7": "#c5c5c5",
+        "color8": "#313131",
+        "color9": "#ff930a",
+        "color10": "#5b8e72",
+        "color11": "#bbb487",
+        "color12": "#4da2a8",
+        "color13": "#b69673",
+        "color14": "#3f615a",
+        "color15": "#ffffff"
+    }
+}

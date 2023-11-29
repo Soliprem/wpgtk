@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/skyscraper.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b1919",
+        "foreground": "#fffefe",
+        "cursor": "#fffefe"
+    },
+    "colors": {
+        "color0": "#1b1919",
+        "color1": "#b47352",
+        "color2": "#7d4e40",
+        "color3": "#ddb5a3",
+        "color4": "#9d7572",
+        "color5": "#bc8c81",
+        "color6": "#9d6652",
+        "color7": "#c6c5c5",
+        "color8": "#353131",
+        "color9": "#fb8f59",
+        "color10": "#ae5e46",
+        "color11": "#ffe1ba",
+        "color12": "#dd8882",
+        "color13": "#ffa993",
+        "color14": "#db7d5b",
+        "color15": "#fffefe"
+    }
+}

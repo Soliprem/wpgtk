@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/waterfall2.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181818",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#181818",
+        "color1": "#5c4733",
+        "color2": "#49575b",
+        "color3": "#71716e",
+        "color4": "#405155",
+        "color5": "#6c5b46",
+        "color6": "#989c9f",
+        "color7": "#c5c5c5",
+        "color8": "#313131",
+        "color9": "#805c39",
+        "color10": "#547680",
+        "color11": "#a1a180",
+        "color12": "#496f78",
+        "color13": "#97774f",
+        "color14": "#b1cde2",
+        "color15": "#ffffff"
+    }
+}

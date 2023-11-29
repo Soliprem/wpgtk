@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Asterios_Polyp_18.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#262324",
+        "foreground": "#fffdfa",
+        "cursor": "#fffdfa"
+    },
+    "colors": {
+        "color0": "#262324",
+        "color1": "#b48496",
+        "color2": "#a49696",
+        "color3": "#bdb1b1",
+        "color4": "#fca9be",
+        "color5": "#c58da2",
+        "color6": "#c8c8c8",
+        "color7": "#d0cbc9",
+        "color8": "#403a3c",
+        "color9": "#fe97bd",
+        "color10": "#e9aeae",
+        "color11": "#ffcece",
+        "color12": "#ffb3d9",
+        "color13": "#ffa1cd",
+        "color14": "#ffe5e5",
+        "color15": "#fffdfa"
+    }
+}

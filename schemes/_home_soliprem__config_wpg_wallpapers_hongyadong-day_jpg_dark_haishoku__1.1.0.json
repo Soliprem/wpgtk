@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/hongyadong-day.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191a1a",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191a1a",
+        "color1": "#6d413a",
+        "color2": "#37643f",
+        "color3": "#bc8f81",
+        "color4": "#456669",
+        "color5": "#7b7373",
+        "color6": "#7b6147",
+        "color7": "#c5c5c5",
+        "color8": "#313333",
+        "color9": "#984c40",
+        "color10": "#3d8c4b",
+        "color11": "#ffaf93",
+        "color12": "#4e8d93",
+        "color13": "#af8686",
+        "color14": "#ac7e4f",
+        "color15": "#ffffff"
+    }
+}

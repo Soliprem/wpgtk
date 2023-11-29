@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/cartoon-cat.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#171919",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#171919",
+        "color1": "#4b6e4b",
+        "color2": "#658f53",
+        "color3": "#8ab755",
+        "color4": "#6f986d",
+        "color5": "#c1df96",
+        "color6": "#97c085",
+        "color7": "#c5c5c5",
+        "color8": "#2e3333",
+        "color9": "#559a55",
+        "color10": "#7dc85d",
+        "color11": "#b4ff5d",
+        "color12": "#80d67c",
+        "color13": "#ffffaa",
+        "color14": "#bcff97",
+        "color15": "#ffffff"
+    }
+}

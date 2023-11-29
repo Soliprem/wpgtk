@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/hepuburn-car.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161616",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#161616",
+        "color1": "#5a5552",
+        "color2": "#585855",
+        "color3": "#aea8a5",
+        "color4": "#5d5855",
+        "color5": "#b1aca9",
+        "color6": "#817c79",
+        "color7": "#c4c4c4",
+        "color8": "#2f2f2f",
+        "color9": "#806b5f",
+        "color10": "#7d7d63",
+        "color11": "#f8d3c0",
+        "color12": "#846f63",
+        "color13": "#fcdac5",
+        "color14": "#b79d8d",
+        "color15": "#ffffff"
+    }
+}

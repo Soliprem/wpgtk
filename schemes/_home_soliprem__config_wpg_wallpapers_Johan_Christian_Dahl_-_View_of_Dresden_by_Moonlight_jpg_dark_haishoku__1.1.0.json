@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Johan_Christian_Dahl_-_View_of_Dresden_by_Moonlight.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181919",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#181919",
+        "color1": "#696f61",
+        "color2": "#515c56",
+        "color3": "#aca97e",
+        "color4": "#46504f",
+        "color5": "#989e86",
+        "color6": "#9ea589",
+        "color7": "#c5c5c5",
+        "color8": "#303232",
+        "color9": "#8a9d70",
+        "color10": "#5e826e",
+        "color11": "#f2ec90",
+        "color12": "#51716e",
+        "color13": "#cfe09b",
+        "color14": "#d7ea9e",
+        "color15": "#ffffff"
+    }
+}

@@ -1,0 +1,15 @@
+// colorschese(generated)
+$bg: {color0};
+$fg: {color15};
+$inactive: {inactive};
+$darkblue: {color4};
+$cyan: {color6};
+$green: {color2};
+$orange: {active};
+$pink: {color14};
+$purple: {color5};
+$red: {color1};
+$yellow: {color3};
+
+
+$btblue: {color12};

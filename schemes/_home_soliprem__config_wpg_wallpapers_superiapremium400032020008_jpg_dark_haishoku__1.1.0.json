@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/superiapremium400032020008.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#171717",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#171717",
+        "color1": "#565258",
+        "color2": "#525660",
+        "color3": "#7a7886",
+        "color4": "#4c4d59",
+        "color5": "#a29dac",
+        "color6": "#aca5b1",
+        "color7": "#c5c5c5",
+        "color8": "#303030",
+        "color9": "#735f7d",
+        "color10": "#5f6a88",
+        "color11": "#928bbe",
+        "color12": "#585b7e",
+        "color13": "#cbb6f4",
+        "color14": "#e3c0fc",
+        "color15": "#ffffff"
+    }
+}

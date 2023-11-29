@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/PLACES-canary-islands.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#241d18",
+        "foreground": "#fffefd",
+        "cursor": "#fffefd"
+    },
+    "colors": {
+        "color0": "#241d18",
+        "color1": "#c69e71",
+        "color2": "#878c83",
+        "color3": "#c78742",
+        "color4": "#0a8590",
+        "color5": "#e8c08f",
+        "color6": "#87c3c9",
+        "color7": "#c8c6c5",
+        "color8": "#42352b",
+        "color9": "#ffce7e",
+        "color10": "#adc798",
+        "color11": "#ffb044",
+        "color12": "#02b5c5",
+        "color13": "#fffca1",
+        "color14": "#99ffff",
+        "color15": "#fffefd"
+    }
+}

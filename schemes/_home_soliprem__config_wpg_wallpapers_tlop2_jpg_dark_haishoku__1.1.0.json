@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/tlop2.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#171718",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#171718",
+        "color1": "#d37836",
+        "color2": "#857c6c",
+        "color3": "#c78965",
+        "color4": "#326d79",
+        "color5": "#895f47",
+        "color6": "#76422f",
+        "color7": "#c5c5c5",
+        "color8": "#2f2f31",
+        "color9": "#ff9934",
+        "color10": "#bca57c",
+        "color11": "#ffac6f",
+        "color12": "#3595a8",
+        "color13": "#bf774e",
+        "color14": "#a45032",
+        "color15": "#ffffff"
+    }
+}

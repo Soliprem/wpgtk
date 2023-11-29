@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/bunnysound.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b1622",
+        "foreground": "#fffdff",
+        "cursor": "#fffdff"
+    },
+    "colors": {
+        "color0": "#1b1622",
+        "color1": "#70329e",
+        "color2": "#8940b2",
+        "color3": "#b057d1",
+        "color4": "#6e319d",
+        "color5": "#b156d1",
+        "color6": "#ad55cf",
+        "color7": "#c6c4c7",
+        "color8": "#332940",
+        "color9": "#9333da",
+        "color10": "#b643f7",
+        "color11": "#ed5dff",
+        "color12": "#9032d9",
+        "color13": "#ef5cff",
+        "color14": "#e95bff",
+        "color15": "#fffdff"
+    }
+}

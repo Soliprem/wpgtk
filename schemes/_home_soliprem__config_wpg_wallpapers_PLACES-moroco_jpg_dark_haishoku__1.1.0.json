@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/PLACES-moroco.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#2e2925",
+        "foreground": "#eeffff",
+        "cursor": "#eeffff"
+    },
+    "colors": {
+        "color0": "#2e2925",
+        "color1": "#eecdb3",
+        "color2": "#f2d8c2",
+        "color3": "#e6bda0",
+        "color4": "#c0d0e3",
+        "color5": "#cac9c8",
+        "color6": "#afc2d9",
+        "color7": "#cddcea",
+        "color8": "#49413b",
+        "color9": "#fff7c1",
+        "color10": "#fffac9",
+        "color11": "#fff1b6",
+        "color12": "#d0faff",
+        "color13": "#ffffe4",
+        "color14": "#caf9ff",
+        "color15": "#eeffff"
+    }
+}

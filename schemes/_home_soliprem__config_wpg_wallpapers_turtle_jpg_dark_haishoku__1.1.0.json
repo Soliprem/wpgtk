@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/turtle.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1a1a18",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#1a1a18",
+        "color1": "#5e5133",
+        "color2": "#545a29",
+        "color3": "#bdb873",
+        "color4": "#757338",
+        "color5": "#b0a070",
+        "color6": "#918a5c",
+        "color7": "#c5c5c5",
+        "color8": "#34342f",
+        "color9": "#836d38",
+        "color10": "#737d2c",
+        "color11": "#ffff81",
+        "color12": "#a3a03d",
+        "color13": "#f7d97e",
+        "color14": "#cbbe68",
+        "color15": "#ffffff"
+    }
+}

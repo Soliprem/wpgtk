@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/kodakgold800112019036.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#171718",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#171718",
+        "color1": "#767990",
+        "color2": "#414460",
+        "color3": "#9b9daf",
+        "color4": "#4f597a",
+        "color5": "#a9a7b4",
+        "color6": "#a3abb9",
+        "color7": "#c5c5c5",
+        "color8": "#2f2f31",
+        "color9": "#8890cc",
+        "color10": "#4a4f87",
+        "color11": "#b4bbf8",
+        "color12": "#596cab",
+        "color13": "#ccc2ff",
+        "color14": "#bdd8ff",
+        "color15": "#ffffff"
+    }
+}

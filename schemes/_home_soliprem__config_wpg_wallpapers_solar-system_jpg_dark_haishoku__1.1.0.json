@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/solar-system.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181717",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#181717",
+        "color1": "#c2601d",
+        "color2": "#654b35",
+        "color3": "#cc8a30",
+        "color4": "#735b49",
+        "color5": "#a27354",
+        "color6": "#583d2d",
+        "color7": "#c5c5c5",
+        "color8": "#312f2f",
+        "color9": "#ff7a17",
+        "color10": "#8d603a",
+        "color11": "#ffb52d",
+        "color12": "#a17452",
+        "color13": "#e2925d",
+        "color14": "#7b4d31",
+        "color15": "#ffffff"
+    }
+}

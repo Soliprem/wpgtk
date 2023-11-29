@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Old_Man_of_Storr.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191817",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191817",
+        "color1": "#8b6825",
+        "color2": "#624924",
+        "color3": "#b78a2d",
+        "color4": "#4b4d67",
+        "color5": "#b09e96",
+        "color6": "#797689",
+        "color7": "#c5c5c5",
+        "color8": "#33312e",
+        "color9": "#c08a24",
+        "color10": "#886026",
+        "color11": "#fcb82b",
+        "color12": "#555a91",
+        "color13": "#f9c5ad",
+        "color14": "#9288c2",
+        "color15": "#ffffff"
+    }
+}

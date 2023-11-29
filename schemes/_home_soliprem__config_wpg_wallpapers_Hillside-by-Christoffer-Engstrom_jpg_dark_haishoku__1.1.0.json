@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Hillside-by-Christoffer-Engstrom.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181514",
+        "foreground": "#fffefe",
+        "cursor": "#fffefe"
+    },
+    "colors": {
+        "color0": "#181514",
+        "color1": "#7a4923",
+        "color2": "#946c3c",
+        "color3": "#e8af3e",
+        "color4": "#c4933b",
+        "color5": "#d0a246",
+        "color6": "#f5c964",
+        "color7": "#c5c4c4",
+        "color8": "#332c2a",
+        "color9": "#a85d23",
+        "color10": "#cd8d40",
+        "color11": "#ffe93d",
+        "color12": "#ffc33c",
+        "color13": "#ffd848",
+        "color14": "#ffff6b",
+        "color15": "#fffefe"
+    }
+}

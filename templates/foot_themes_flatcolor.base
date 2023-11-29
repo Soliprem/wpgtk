@@ -1,6 +1,6 @@
 
 [colors]
-alpha=0.85
+alpha=0.7
 foreground={color15.strip}
 background={color0.strip}
 

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/pink-abstract.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161515",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#161515",
+        "color1": "#8d2b42",
+        "color2": "#792c2b",
+        "color3": "#5d1d27",
+        "color4": "#73186d",
+        "color5": "#691c45",
+        "color6": "#3b0e41",
+        "color7": "#c4c4c4",
+        "color8": "#2f2d2d",
+        "color9": "#c32b4f",
+        "color10": "#a82e2d",
+        "color11": "#801d2d",
+        "color12": "#9e1695",
+        "color13": "#911b5a",
+        "color14": "#500c59",
+        "color15": "#ffffff"
+    }
+}

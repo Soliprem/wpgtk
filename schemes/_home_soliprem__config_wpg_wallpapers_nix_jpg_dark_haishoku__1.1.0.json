@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/nix.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191918",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191918",
+        "color1": "#c08a21",
+        "color2": "#6b5324",
+        "color3": "#d79921",
+        "color4": "#856728",
+        "color5": "#90722b",
+        "color6": "#987023",
+        "color7": "#c5c5c5",
+        "color8": "#323230",
+        "color9": "#ffb81c",
+        "color10": "#946e25",
+        "color11": "#ffcc1a",
+        "color12": "#b88928",
+        "color13": "#c7992b",
+        "color14": "#d19521",
+        "color15": "#ffffff"
+    }
+}

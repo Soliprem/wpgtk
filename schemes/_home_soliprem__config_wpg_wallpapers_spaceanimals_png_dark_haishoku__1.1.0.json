@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/spaceanimals.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b1b1b",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#1b1b1b",
+        "color1": "#cb7b25",
+        "color2": "#5a7524",
+        "color3": "#8f6e49",
+        "color4": "#224795",
+        "color5": "#8b8073",
+        "color6": "#7b5534",
+        "color7": "#c6c6c6",
+        "color8": "#343434",
+        "color9": "#ffa020",
+        "color10": "#78a224",
+        "color11": "#c78f50",
+        "color12": "#2058cd",
+        "color13": "#c5a785",
+        "color14": "#ab6d38",
+        "color15": "#ffffff"
+    }
+}

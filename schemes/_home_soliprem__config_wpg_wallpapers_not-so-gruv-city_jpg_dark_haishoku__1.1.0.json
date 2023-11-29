@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/not-so-gruv-city.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1a1b1b",
+        "foreground": "#feffff",
+        "cursor": "#feffff"
+    },
+    "colors": {
+        "color0": "#1a1b1b",
+        "color1": "#645c53",
+        "color2": "#757060",
+        "color3": "#b9ae92",
+        "color4": "#387f8b",
+        "color5": "#7c867d",
+        "color6": "#2399ae",
+        "color7": "#c5c6c6",
+        "color8": "#323434",
+        "color9": "#8d7860",
+        "color10": "#a5986f",
+        "color11": "#ffeba8",
+        "color12": "#3caec1",
+        "color13": "#90be95",
+        "color14": "#1fd0ef",
+        "color15": "#feffff"
+    }
+}

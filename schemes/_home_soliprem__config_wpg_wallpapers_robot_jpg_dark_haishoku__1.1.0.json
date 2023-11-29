@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/robot.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1c1b1c",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#1c1b1c",
+        "color1": "#6b5353",
+        "color2": "#79625e",
+        "color3": "#675c69",
+        "color4": "#59566d",
+        "color5": "#a19db9",
+        "color6": "#7f778a",
+        "color7": "#c6c6c6",
+        "color8": "#353335",
+        "color9": "#975f5f",
+        "color10": "#ab756c",
+        "color11": "#8e6a95",
+        "color12": "#6a639a",
+        "color13": "#c1b5ff",
+        "color14": "#a28ac4",
+        "color15": "#ffffff"
+    }
+}

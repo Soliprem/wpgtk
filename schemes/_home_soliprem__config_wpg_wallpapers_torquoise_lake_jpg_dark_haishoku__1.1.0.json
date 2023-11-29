@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/torquoise_lake.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191919",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191919",
+        "color1": "#6b7a83",
+        "color2": "#386d8c",
+        "color3": "#3d496c",
+        "color4": "#3587bf",
+        "color5": "#6493df",
+        "color6": "#22bfe2",
+        "color7": "#c5c5c5",
+        "color8": "#323232",
+        "color9": "#7ba2b9",
+        "color10": "#3c91c2",
+        "color11": "#445997",
+        "color12": "#34b2ff",
+        "color13": "#6cbaff",
+        "color14": "#1bffff",
+        "color15": "#ffffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/lugarescoloridos1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191817",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191817",
+        "color1": "#be4141",
+        "color2": "#48613a",
+        "color3": "#74713d",
+        "color4": "#807a70",
+        "color5": "#c94f56",
+        "color6": "#792d29",
+        "color7": "#c5c5c5",
+        "color8": "#33312e",
+        "color9": "#ff4343",
+        "color10": "#5a8841",
+        "color11": "#a29d43",
+        "color12": "#b5a282",
+        "color13": "#ff545f",
+        "color14": "#a7302a",
+        "color15": "#ffffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/PLACES-ocean.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191a1a",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191a1a",
+        "color1": "#50726f",
+        "color2": "#44635b",
+        "color3": "#87a49e",
+        "color4": "#3c5d61",
+        "color5": "#72928e",
+        "color6": "#91adaa",
+        "color7": "#c5c5c5",
+        "color8": "#313333",
+        "color9": "#5ba09a",
+        "color10": "#4d8b7b",
+        "color11": "#9ce8d8",
+        "color12": "#438088",
+        "color13": "#83cec5",
+        "color14": "#a7f5ed",
+        "color15": "#ffffff"
+    }
+}

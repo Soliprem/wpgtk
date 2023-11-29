@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/planets.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#16181a",
+        "foreground": "#feffff",
+        "cursor": "#feffff"
+    },
+    "colors": {
+        "color0": "#16181a",
+        "color1": "#df4446",
+        "color2": "#e6a881",
+        "color3": "#ed9b75",
+        "color4": "#853748",
+        "color5": "#e9755f",
+        "color6": "#00bce6",
+        "color7": "#c4c5c5",
+        "color8": "#2c3135",
+        "color9": "#ff4548",
+        "color10": "#ffd590",
+        "color11": "#ffc181",
+        "color12": "#b93b56",
+        "color13": "#ff8966",
+        "color14": "#01f3ff",
+        "color15": "#feffff"
+    }
+}

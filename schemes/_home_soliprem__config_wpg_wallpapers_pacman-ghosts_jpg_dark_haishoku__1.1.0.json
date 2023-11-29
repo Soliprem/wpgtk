@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/pacman-ghosts.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191919",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191919",
+        "color1": "#ca2720",
+        "color2": "#96951c",
+        "color3": "#d39821",
+        "color4": "#7c9a78",
+        "color5": "#b16486",
+        "color6": "#468587",
+        "color7": "#c5c5c5",
+        "color8": "#323232",
+        "color9": "#ff241a",
+        "color10": "#cecd18",
+        "color11": "#ffca1a",
+        "color12": "#93d98a",
+        "color13": "#f870ac",
+        "color14": "#4db9bc",
+        "color15": "#ffffff"
+    }
+}

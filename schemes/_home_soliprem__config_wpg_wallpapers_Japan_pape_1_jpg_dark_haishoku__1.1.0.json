@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Japan_pape_1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#18191a",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#18191a",
+        "color1": "#675758",
+        "color2": "#726e61",
+        "color3": "#beb8ac",
+        "color4": "#bca2a7",
+        "color5": "#c7adb6",
+        "color6": "#8e8988",
+        "color7": "#c5c5c5",
+        "color8": "#2f3234",
+        "color9": "#926467",
+        "color10": "#a19670",
+        "color11": "#fff7c8",
+        "color12": "#ffbbcb",
+        "color13": "#ffc8e5",
+        "color14": "#caa69e",
+        "color15": "#ffffff"
+    }
+}

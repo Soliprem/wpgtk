@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/wallhaven-cats.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#17161b",
+        "foreground": "#fffdff",
+        "cursor": "#fffdff"
+    },
+    "colors": {
+        "color0": "#17161b",
+        "color1": "#de755a",
+        "color2": "#6d305b",
+        "color3": "#d1646e",
+        "color4": "#3c336d",
+        "color5": "#b94b76",
+        "color6": "#854379",
+        "color7": "#c5c4c6",
+        "color8": "#2e2c36",
+        "color9": "#ff8c60",
+        "color10": "#97347a",
+        "color11": "#ff6d7e",
+        "color12": "#463798",
+        "color13": "#ff5095",
+        "color14": "#b94aa5",
+        "color15": "#fffdff"
+    }
+}

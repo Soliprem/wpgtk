@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/ratm.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191919",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191919",
+        "color1": "#ca241d",
+        "color2": "#555856",
+        "color3": "#8f8f82",
+        "color4": "#615647",
+        "color5": "#7c7566",
+        "color6": "#772724",
+        "color7": "#c5c5c5",
+        "color8": "#323232",
+        "color9": "#ff2016",
+        "color10": "#637d6c",
+        "color11": "#cbcb97",
+        "color12": "#887151",
+        "color13": "#af9d75",
+        "color14": "#a42924",
+        "color15": "#ffffff"
+    }
+}

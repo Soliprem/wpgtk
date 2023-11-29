@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/MEDIA-mad-max-car.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181616",
+        "foreground": "#fffefe",
+        "cursor": "#fffefe"
+    },
+    "colors": {
+        "color0": "#181616",
+        "color1": "#c57139",
+        "color2": "#737e6f",
+        "color3": "#d9ae75",
+        "color4": "#713c29",
+        "color5": "#c68a54",
+        "color6": "#9cab94",
+        "color7": "#c5c4c4",
+        "color8": "#322d2d",
+        "color9": "#ff8f39",
+        "color10": "#8eb380",
+        "color11": "#ffe582",
+        "color12": "#9c492b",
+        "color13": "#ffb25a",
+        "color14": "#c4f2ab",
+        "color15": "#fffefe"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/PLACES-la-jolla-cove.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#151819",
+        "foreground": "#feffff",
+        "cursor": "#feffff"
+    },
+    "colors": {
+        "color0": "#151819",
+        "color1": "#4f626e",
+        "color2": "#254948",
+        "color3": "#2a4e56",
+        "color4": "#1c404f",
+        "color5": "#697e8e",
+        "color6": "#768795",
+        "color7": "#c4c5c5",
+        "color8": "#2b3234",
+        "color9": "#5a829b",
+        "color10": "#286664",
+        "color11": "#2e6a78",
+        "color12": "#1d566d",
+        "color13": "#78a5c8",
+        "color14": "#88b1d2",
+        "color15": "#feffff"
+    }
+}

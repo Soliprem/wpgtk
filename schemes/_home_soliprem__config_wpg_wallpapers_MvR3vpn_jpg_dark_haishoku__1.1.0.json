@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/MvR3vpn.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161817",
+        "foreground": "#feffff",
+        "cursor": "#feffff"
+    },
+    "colors": {
+        "color0": "#161817",
+        "color1": "#264953",
+        "color2": "#405743",
+        "color3": "#618489",
+        "color4": "#3b646e",
+        "color5": "#6e959f",
+        "color6": "#89a8b2",
+        "color7": "#c4c5c5",
+        "color8": "#2d3230",
+        "color9": "#296373",
+        "color10": "#497a4f",
+        "color11": "#6eb6c1",
+        "color12": "#418899",
+        "color13": "#7dcce0",
+        "color14": "#9de4fb",
+        "color15": "#feffff"
+    }
+}

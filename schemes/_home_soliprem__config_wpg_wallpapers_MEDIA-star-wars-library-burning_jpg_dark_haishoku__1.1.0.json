@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/MEDIA-star-wars-library-burning.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181615",
+        "foreground": "#fffefe",
+        "cursor": "#fffefe"
+    },
+    "colors": {
+        "color0": "#181615",
+        "color1": "#b34f0a",
+        "color2": "#9d5d1b",
+        "color3": "#f9b52c",
+        "color4": "#733811",
+        "color5": "#f7ce7a",
+        "color6": "#d77d0f",
+        "color7": "#c5c4c4",
+        "color8": "#322e2c",
+        "color9": "#f46401",
+        "color10": "#d87917",
+        "color11": "#fff126",
+        "color12": "#9e470d",
+        "color13": "#ffff86",
+        "color14": "#ffa404",
+        "color15": "#fffefe"
+    }
+}

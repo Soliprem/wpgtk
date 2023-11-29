@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/pxfuel.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#151617",
+        "foreground": "#fefeff",
+        "cursor": "#fefeff"
+    },
+    "colors": {
+        "color0": "#151617",
+        "color1": "#f52d0b",
+        "color2": "#782d2a",
+        "color3": "#fcde09",
+        "color4": "#233473",
+        "color5": "#787386",
+        "color6": "#f18007",
+        "color7": "#c4c4c5",
+        "color8": "#2c2f31",
+        "color9": "#ff3101",
+        "color10": "#a6302c",
+        "color11": "#ffff01",
+        "color12": "#233d9f",
+        "color13": "#9485be",
+        "color14": "#ffa601",
+        "color15": "#fefeff"
+    }
+}

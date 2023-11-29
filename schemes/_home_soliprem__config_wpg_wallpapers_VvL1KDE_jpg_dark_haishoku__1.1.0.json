@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/VvL1KDE.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1d1c18",
+        "foreground": "#fffffe",
+        "cursor": "#fffffe"
+    },
+    "colors": {
+        "color0": "#1d1c18",
+        "color1": "#eb6b09",
+        "color2": "#60623a",
+        "color3": "#d5aa77",
+        "color4": "#8a784f",
+        "color5": "#c19866",
+        "color6": "#7c6c35",
+        "color7": "#c6c6c5",
+        "color8": "#38362e",
+        "color9": "#ff8901",
+        "color10": "#858941",
+        "color11": "#ffde85",
+        "color12": "#c1a158",
+        "color13": "#ffc771",
+        "color14": "#ac9239",
+        "color15": "#fffffe"
+    }
+}

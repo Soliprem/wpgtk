@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/surface-pro-7.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1e1717",
+        "foreground": "#fffefe",
+        "cursor": "#fffefe"
+    },
+    "colors": {
+        "color0": "#1e1717",
+        "color1": "#903426",
+        "color2": "#8a6e76",
+        "color3": "#c98175",
+        "color4": "#695e70",
+        "color5": "#b0a3b7",
+        "color6": "#96889b",
+        "color7": "#c6c5c5",
+        "color8": "#3a2c2c",
+        "color9": "#c73a25",
+        "color10": "#c37e92",
+        "color11": "#ff9883",
+        "color12": "#8b6c9e",
+        "color13": "#ebbdff",
+        "color14": "#cb9ddc",
+        "color15": "#fffefe"
+    }
+}

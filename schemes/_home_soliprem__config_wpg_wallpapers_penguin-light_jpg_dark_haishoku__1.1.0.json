@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/penguin-light.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161616",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#161616",
+        "color1": "#ca1a1f",
+        "color2": "#4e693e",
+        "color3": "#cf8614",
+        "color4": "#729b95",
+        "color5": "#79876f",
+        "color6": "#71a3b4",
+        "color7": "#c4c4c4",
+        "color8": "#2f2f2f",
+        "color9": "#ff121a",
+        "color10": "#629345",
+        "color11": "#ffb10b",
+        "color12": "#82dace",
+        "color13": "#9abf80",
+        "color14": "#7fddfd",
+        "color15": "#ffffff"
+    }
+}

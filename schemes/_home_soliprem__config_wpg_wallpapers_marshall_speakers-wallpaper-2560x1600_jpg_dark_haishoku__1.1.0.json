@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/marshall_speakers-wallpaper-2560x1600.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191617",
+        "foreground": "#fffeff",
+        "cursor": "#fffeff"
+    },
+    "colors": {
+        "color0": "#191617",
+        "color1": "#b34431",
+        "color2": "#897460",
+        "color3": "#c6a473",
+        "color4": "#733927",
+        "color5": "#be6f34",
+        "color6": "#8a5731",
+        "color7": "#c5c4c5",
+        "color8": "#332d2f",
+        "color9": "#f74d30",
+        "color10": "#c1966d",
+        "color11": "#ffd881",
+        "color12": "#9f4428",
+        "color13": "#ff8e33",
+        "color14": "#bf6f33",
+        "color15": "#fffeff"
+    }
+}

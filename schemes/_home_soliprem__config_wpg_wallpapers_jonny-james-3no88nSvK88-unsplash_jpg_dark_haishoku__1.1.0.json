@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/jonny-james-3no88nSvK88-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191819",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191819",
+        "color1": "#6d423f",
+        "color2": "#44455b",
+        "color3": "#978893",
+        "color4": "#575970",
+        "color5": "#ad999c",
+        "color6": "#766b7b",
+        "color7": "#c5c5c5",
+        "color8": "#323032",
+        "color9": "#984c46",
+        "color10": "#4e5080",
+        "color11": "#d69ec7",
+        "color12": "#64689e",
+        "color13": "#f6b1bc",
+        "color14": "#9e7cae",
+        "color15": "#ffffff"
+    }
+}

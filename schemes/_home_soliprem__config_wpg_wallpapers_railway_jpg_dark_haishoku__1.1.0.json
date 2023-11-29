@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/railway.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191919",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191919",
+        "color1": "#55504b",
+        "color2": "#505257",
+        "color3": "#63666b",
+        "color4": "#51565a",
+        "color5": "#7f8489",
+        "color6": "#82878c",
+        "color7": "#c5c5c5",
+        "color8": "#323232",
+        "color9": "#786857",
+        "color10": "#5d657b",
+        "color11": "#738198",
+        "color12": "#5e7180",
+        "color13": "#94abc3",
+        "color14": "#97afc7",
+        "color15": "#ffffff"
+    }
+}

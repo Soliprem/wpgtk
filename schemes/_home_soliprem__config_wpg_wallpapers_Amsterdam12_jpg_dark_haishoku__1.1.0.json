@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Amsterdam12.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181918",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#181918",
+        "color1": "#655142",
+        "color2": "#546364",
+        "color3": "#beb1a0",
+        "color4": "#48575b",
+        "color5": "#6d644f",
+        "color6": "#7f8179",
+        "color7": "#c5c5c5",
+        "color8": "#303230",
+        "color9": "#8e674a",
+        "color10": "#618b8d",
+        "color11": "#ffe9b9",
+        "color12": "#537780",
+        "color13": "#99865a",
+        "color14": "#adb78d",
+        "color15": "#ffffff"
+    }
+}

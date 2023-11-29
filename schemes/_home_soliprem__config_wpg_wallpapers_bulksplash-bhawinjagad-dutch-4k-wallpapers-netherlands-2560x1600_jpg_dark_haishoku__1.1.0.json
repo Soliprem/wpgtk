@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/bulksplash-bhawinjagad-dutch-4k-wallpapers-netherlands-2560x1600.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191818",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191818",
+        "color1": "#5c4a42",
+        "color2": "#6e625c",
+        "color3": "#a69286",
+        "color4": "#424547",
+        "color5": "#9d877b",
+        "color6": "#52413a",
+        "color7": "#c5c5c5",
+        "color8": "#323030",
+        "color9": "#815c4b",
+        "color10": "#9c7b6a",
+        "color11": "#ebb89a",
+        "color12": "#4c5b65",
+        "color13": "#deaa8d",
+        "color14": "#735042",
+        "color15": "#ffffff"
+    }
+}

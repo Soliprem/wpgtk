@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Orphans.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#171718",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#171718",
+        "color1": "#e44822",
+        "color2": "#7b8027",
+        "color3": "#e7d926",
+        "color4": "#797f83",
+        "color5": "#e47a1a",
+        "color6": "#753d26",
+        "color7": "#c5c5c5",
+        "color8": "#2f2f31",
+        "color9": "#ff531b",
+        "color10": "#a9b127",
+        "color11": "#ffff1f",
+        "color12": "#8da8ba",
+        "color13": "#ff9d11",
+        "color14": "#a24b27",
+        "color15": "#ffffff"
+    }
+}

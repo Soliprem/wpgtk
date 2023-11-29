@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/space_Balloon.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1d1e21",
+        "foreground": "#fefeff",
+        "cursor": "#fefeff"
+    },
+    "colors": {
+        "color0": "#1d1e21",
+        "color1": "#b7768b",
+        "color2": "#e39ea1",
+        "color3": "#f2c5ae",
+        "color4": "#9c6c83",
+        "color5": "#c2778e",
+        "color6": "#ad9496",
+        "color7": "#c6c6c7",
+        "color8": "#34363b",
+        "color9": "#ff85ad",
+        "color10": "#ffb4ba",
+        "color11": "#ffe9bb",
+        "color12": "#db7ba9",
+        "color13": "#ff86b0",
+        "color14": "#f5abb1",
+        "color15": "#fefeff"
+    }
+}

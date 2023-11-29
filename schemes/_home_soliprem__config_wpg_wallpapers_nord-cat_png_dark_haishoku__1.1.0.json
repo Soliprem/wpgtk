@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/nord-cat.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1a1b1c",
+        "foreground": "#feffff",
+        "cursor": "#feffff"
+    },
+    "colors": {
+        "color0": "#1a1b1c",
+        "color1": "#c07b80",
+        "color2": "#4b566b",
+        "color3": "#7a677e",
+        "color4": "#52637f",
+        "color5": "#b0829c",
+        "color6": "#867997",
+        "color7": "#c5c6c6",
+        "color8": "#323435",
+        "color9": "#ff8b94",
+        "color10": "#556c96",
+        "color11": "#a877b2",
+        "color12": "#5d7db2",
+        "color13": "#f895cd",
+        "color14": "#ab8bd5",
+        "color15": "#feffff"
+    }
+}

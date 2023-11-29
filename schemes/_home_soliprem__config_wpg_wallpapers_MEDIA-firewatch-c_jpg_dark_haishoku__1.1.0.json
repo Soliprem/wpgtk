@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/MEDIA-firewatch-c.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191619",
+        "foreground": "#fffeff",
+        "cursor": "#fffeff"
+    },
+    "colors": {
+        "color0": "#191619",
+        "color1": "#d2323b",
+        "color2": "#fc6a43",
+        "color3": "#f39278",
+        "color4": "#870832",
+        "color5": "#af6879",
+        "color6": "#f8b093",
+        "color7": "#c5c4c5",
+        "color8": "#332d33",
+        "color9": "#ff303d",
+        "color10": "#ff7d42",
+        "color11": "#ffb084",
+        "color12": "#b8013d",
+        "color13": "#f57593",
+        "color14": "#ffd8a4",
+        "color15": "#fffeff"
+    }
+}

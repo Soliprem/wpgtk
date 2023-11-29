@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/melee.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181818",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#181818",
+        "color1": "#70311f",
+        "color2": "#227724",
+        "color3": "#f6d312",
+        "color4": "#da826d",
+        "color5": "#fc98b7",
+        "color6": "#e8c679",
+        "color7": "#c5c5c5",
+        "color8": "#313131",
+        "color9": "#9a3a1e",
+        "color10": "#22a425",
+        "color11": "#ffff06",
+        "color12": "#ff9b78",
+        "color13": "#ffa6dd",
+        "color14": "#ffff86",
+        "color15": "#ffffff"
+    }
+}

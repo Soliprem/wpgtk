@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Na2urbE.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191818",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191818",
+        "color1": "#f25024",
+        "color2": "#796f39",
+        "color3": "#e8cf7f",
+        "color4": "#76442a",
+        "color5": "#f07028",
+        "color6": "#81836e",
+        "color7": "#c5c5c5",
+        "color8": "#323030",
+        "color9": "#ff5d1c",
+        "color10": "#a8983e",
+        "color11": "#ffff8d",
+        "color12": "#a3552c",
+        "color13": "#ff8c21",
+        "color14": "#b4b97f",
+        "color15": "#ffffff"
+    }
+}

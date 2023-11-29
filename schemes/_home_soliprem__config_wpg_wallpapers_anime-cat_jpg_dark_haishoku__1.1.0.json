@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/anime-cat.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181718",
+        "foreground": "#dfe3ff",
+        "cursor": "#dfe3ff"
+    },
+    "colors": {
+        "color0": "#181718",
+        "color1": "#8188ed",
+        "color2": "#6d6f82",
+        "color3": "#c5c5c5",
+        "color4": "#3e3d70",
+        "color5": "#cd6aed",
+        "color6": "#6de288",
+        "color7": "#c4c7fb",
+        "color8": "#312f31",
+        "color9": "#8f9cff",
+        "color10": "#7e83b8",
+        "color11": "#ffe5e5",
+        "color12": "#45449c",
+        "color13": "#ff73ff",
+        "color14": "#77ffa5",
+        "color15": "#dfe3ff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/NOUNS-vw-bug.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1a1a1a",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#1a1a1a",
+        "color1": "#8f8788",
+        "color2": "#8eb3d1",
+        "color3": "#bfa8a0",
+        "color4": "#4a85b4",
+        "color5": "#b19d99",
+        "color6": "#6798bf",
+        "color7": "#c5c5c5",
+        "color8": "#333333",
+        "color9": "#cb9da3",
+        "color10": "#a1ebff",
+        "color11": "#ffcfb9",
+        "color12": "#4faefa",
+        "color13": "#fbbdb1",
+        "color14": "#72c7ff",
+        "color15": "#ffffff"
+    }
+}

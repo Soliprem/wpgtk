@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/NOUNS-jellyfish.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#141414",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#141414",
+        "color1": "#698c89",
+        "color2": "#1c4c56",
+        "color3": "#c1c591",
+        "color4": "#366e75",
+        "color5": "#87b6b5",
+        "color6": "#689fa6",
+        "color7": "#c4c4c4",
+        "color8": "#2d2d2d",
+        "color9": "#78c5bf",
+        "color10": "#1c6777",
+        "color11": "#ffffa6",
+        "color12": "#3b97a3",
+        "color13": "#9afffe",
+        "color14": "#75dce9",
+        "color15": "#ffffff"
+    }
+}

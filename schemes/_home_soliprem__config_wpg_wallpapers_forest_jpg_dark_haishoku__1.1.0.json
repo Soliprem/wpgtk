@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/forest.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#171716",
+        "foreground": "#fffffe",
+        "cursor": "#fffffe"
+    },
+    "colors": {
+        "color0": "#171716",
+        "color1": "#4d4640",
+        "color2": "#49443e",
+        "color3": "#332f1e",
+        "color4": "#3b3932",
+        "color5": "#272a26",
+        "color6": "#2b2d28",
+        "color7": "#c5c5c4",
+        "color8": "#30302e",
+        "color9": "#6d5a4a",
+        "color10": "#675947",
+        "color11": "#474021",
+        "color12": "#534d39",
+        "color13": "#303b2c",
+        "color14": "#383f2e",
+        "color15": "#fffffe"
+    }
+}

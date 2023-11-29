@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/japan2.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#19191a",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#19191a",
+        "color1": "#a0221e",
+        "color2": "#716b71",
+        "color3": "#9f8585",
+        "color4": "#504b54",
+        "color5": "#9d939a",
+        "color6": "#712021",
+        "color7": "#c5c5c5",
+        "color8": "#313133",
+        "color9": "#dc201a",
+        "color10": "#a17ca1",
+        "color11": "#e19999",
+        "color12": "#695777",
+        "color13": "#dfabd0",
+        "color14": "#9c2021",
+        "color15": "#ffffff"
+    }
+}

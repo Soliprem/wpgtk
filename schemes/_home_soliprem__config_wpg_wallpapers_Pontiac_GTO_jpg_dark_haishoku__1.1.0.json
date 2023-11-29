@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Pontiac_GTO.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#171717",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#171717",
+        "color1": "#c22113",
+        "color2": "#686744",
+        "color3": "#bf9685",
+        "color4": "#881f14",
+        "color5": "#b8b39a",
+        "color6": "#918d77",
+        "color7": "#c5c5c5",
+        "color8": "#303030",
+        "color9": "#ff1f0a",
+        "color10": "#92904d",
+        "color11": "#ffba97",
+        "color12": "#bb1f0f",
+        "color13": "#fff7b2",
+        "color14": "#cdc389",
+        "color15": "#ffffff"
+    }
+}

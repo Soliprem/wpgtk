@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/ghibli_pape_2.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1f1e20",
+        "foreground": "#fffeff",
+        "cursor": "#fffeff"
+    },
+    "colors": {
+        "color0": "#1f1e20",
+        "color1": "#817c7d",
+        "color2": "#809db3",
+        "color3": "#cba479",
+        "color4": "#5c737d",
+        "color5": "#818b98",
+        "color6": "#4988a6",
+        "color7": "#c7c6c7",
+        "color8": "#383639",
+        "color9": "#b89098",
+        "color10": "#92cefc",
+        "color11": "#ffd688",
+        "color12": "#699bb0",
+        "color13": "#95b2d7",
+        "color14": "#4fb6e7",
+        "color15": "#fffeff"
+    }
+}

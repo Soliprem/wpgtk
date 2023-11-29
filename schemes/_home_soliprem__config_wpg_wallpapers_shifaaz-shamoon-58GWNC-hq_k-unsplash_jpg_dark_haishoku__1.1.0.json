@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/shifaaz-shamoon-58GWNC-hq_k-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191a15",
+        "foreground": "#fffffe",
+        "cursor": "#fffffe"
+    },
+    "colors": {
+        "color0": "#191a15",
+        "color1": "#92a80f",
+        "color2": "#6b7c10",
+        "color3": "#b0b620",
+        "color4": "#6dc8c8",
+        "color5": "#465d07",
+        "color6": "#0ed0d0",
+        "color7": "#c5c5c4",
+        "color8": "#33352b",
+        "color9": "#c6e607",
+        "color10": "#91aa0b",
+        "color11": "#f1fa1b",
+        "color12": "#79ffff",
+        "color13": "#5e7f02",
+        "color14": "#03ffff",
+        "color15": "#fffffe"
+    }
+}

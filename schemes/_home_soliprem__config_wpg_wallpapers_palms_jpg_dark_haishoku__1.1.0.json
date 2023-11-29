@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/palms.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#201c1d",
+        "foreground": "#fffefe",
+        "cursor": "#fffefe"
+    },
+    "colors": {
+        "color0": "#201c1d",
+        "color1": "#957c5b",
+        "color2": "#7c6758",
+        "color3": "#c9aa62",
+        "color4": "#c8b480",
+        "color5": "#938a79",
+        "color6": "#a3a389",
+        "color7": "#c7c6c6",
+        "color8": "#3a3335",
+        "color9": "#d1a366",
+        "color10": "#ae8364",
+        "color11": "#ffe46b",
+        "color12": "#fff391",
+        "color13": "#d0b88b",
+        "color14": "#e7e79e",
+        "color15": "#fffefe"
+    }
+}

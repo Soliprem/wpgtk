@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/coffee-beans-1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#171515",
+        "foreground": "#fffefe",
+        "cursor": "#fffefe"
+    },
+    "colors": {
+        "color0": "#171515",
+        "color1": "#984f27",
+        "color2": "#784f40",
+        "color3": "#aa755c",
+        "color4": "#562a18",
+        "color5": "#9a6045",
+        "color6": "#733f28",
+        "color7": "#c5c4c4",
+        "color8": "#312c2c",
+        "color9": "#d26326",
+        "color10": "#a76147",
+        "color11": "#ee9166",
+        "color12": "#773317",
+        "color13": "#d6774b",
+        "color14": "#9f4d29",
+        "color15": "#fffefe"
+    }
+}

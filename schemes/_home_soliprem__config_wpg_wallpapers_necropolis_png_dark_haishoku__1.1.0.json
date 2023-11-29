@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/necropolis.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#171718",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#171718",
+        "color1": "#473f39",
+        "color2": "#4d5048",
+        "color3": "#374a58",
+        "color4": "#3d5463",
+        "color5": "#506878",
+        "color6": "#6c8fac",
+        "color7": "#c5c5c5",
+        "color8": "#2f2f31",
+        "color9": "#645041",
+        "color10": "#667153",
+        "color11": "#3e617b",
+        "color12": "#446f8b",
+        "color13": "#5b89a8",
+        "color14": "#7abbf1",
+        "color15": "#ffffff"
+    }
+}

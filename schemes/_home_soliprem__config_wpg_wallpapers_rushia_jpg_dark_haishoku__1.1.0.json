@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/rushia.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1a1b1d",
+        "foreground": "#feffff",
+        "cursor": "#feffff"
+    },
+    "colors": {
+        "color0": "#1a1b1d",
+        "color1": "#3089c7",
+        "color2": "#224674",
+        "color3": "#7cd1ef",
+        "color4": "#2d6b98",
+        "color5": "#c18494",
+        "color6": "#27c5f0",
+        "color7": "#c5c6c6",
+        "color8": "#313337",
+        "color9": "#2eb4ff",
+        "color10": "#2259a0",
+        "color11": "#89ffff",
+        "color12": "#2d8dd2",
+        "color13": "#ff96b6",
+        "color14": "#20ffff",
+        "color15": "#feffff"
+    }
+}

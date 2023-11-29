@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/sylwia-bartyzel-tME8s001BNQ-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#16191b",
+        "foreground": "#fdffff",
+        "cursor": "#fdffff"
+    },
+    "colors": {
+        "color0": "#16191b",
+        "color1": "#4c6078",
+        "color2": "#385d5d",
+        "color3": "#788799",
+        "color4": "#3b4f68",
+        "color5": "#a4afb8",
+        "color6": "#99a5b2",
+        "color7": "#c4c5c6",
+        "color8": "#2c3236",
+        "color9": "#567ba8",
+        "color10": "#3f8282",
+        "color11": "#8aadd8",
+        "color12": "#426591",
+        "color13": "#bee5ff",
+        "color14": "#b1d5fc",
+        "color15": "#fdffff"
+    }
+}

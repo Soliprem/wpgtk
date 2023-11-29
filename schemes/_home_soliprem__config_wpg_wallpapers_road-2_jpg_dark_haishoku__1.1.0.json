@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/road-2.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181717",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#181717",
+        "color1": "#806b35",
+        "color2": "#62502b",
+        "color3": "#b19428",
+        "color4": "#8d7e5b",
+        "color5": "#b29d6b",
+        "color6": "#d2c180",
+        "color7": "#c5c5c5",
+        "color8": "#312f2f",
+        "color9": "#b29039",
+        "color10": "#886b2e",
+        "color11": "#f4c825",
+        "color12": "#c6a967",
+        "color13": "#f9d378",
+        "color14": "#ffff90",
+        "color15": "#ffffff"
+    }
+}

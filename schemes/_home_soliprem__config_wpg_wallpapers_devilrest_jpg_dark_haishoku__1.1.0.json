@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/devilrest.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181918",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#181918",
+        "color1": "#ed7517",
+        "color2": "#7da86d",
+        "color3": "#6e695c",
+        "color4": "#4f615a",
+        "color5": "#4f4e49",
+        "color6": "#748b82",
+        "color7": "#c5c5c5",
+        "color8": "#303230",
+        "color9": "#ff960c",
+        "color10": "#9aec7b",
+        "color11": "#9c8e6a",
+        "color12": "#5b8977",
+        "color13": "#706b55",
+        "color14": "#86c5ac",
+        "color15": "#ffffff"
+    }
+}

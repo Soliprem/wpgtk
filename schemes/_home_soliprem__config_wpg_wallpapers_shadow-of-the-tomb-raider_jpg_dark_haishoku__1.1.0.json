@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/shadow-of-the-tomb-raider.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181818",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#181818",
+        "color1": "#b54c27",
+        "color2": "#6c736d",
+        "color3": "#eeb73f",
+        "color4": "#495e60",
+        "color5": "#da722a",
+        "color6": "#793a2a",
+        "color7": "#c5c5c5",
+        "color8": "#313131",
+        "color9": "#f95b24",
+        "color10": "#7da383",
+        "color11": "#fff53e",
+        "color12": "#538387",
+        "color13": "#ff9125",
+        "color14": "#a7452b",
+        "color15": "#ffffff"
+    }
+}

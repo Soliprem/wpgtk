@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/NOUNS-dolphins.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#151b1a",
+        "foreground": "#fdffff",
+        "cursor": "#fdffff"
+    },
+    "colors": {
+        "color0": "#151b1a",
+        "color1": "#747d78",
+        "color2": "#3ca37c",
+        "color3": "#79a598",
+        "color4": "#1f775e",
+        "color5": "#0f5e48",
+        "color6": "#8bb1ae",
+        "color7": "#c4c6c5",
+        "color8": "#2a3735",
+        "color9": "#87b29a",
+        "color10": "#3fe2a4",
+        "color11": "#8ae9cd",
+        "color12": "#1ea47e",
+        "color13": "#0c8160",
+        "color14": "#a0faf3",
+        "color15": "#fdffff"
+    }
+}

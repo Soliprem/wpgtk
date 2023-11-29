@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Monty.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191716",
+        "foreground": "#fffffe",
+        "cursor": "#fffffe"
+    },
+    "colors": {
+        "color0": "#191716",
+        "color1": "#b35425",
+        "color2": "#9e6136",
+        "color3": "#f1c874",
+        "color4": "#80421f",
+        "color5": "#dc9e54",
+        "color6": "#ce7a32",
+        "color7": "#c5c5c4",
+        "color8": "#332f2d",
+        "color9": "#f66821",
+        "color10": "#db7b38",
+        "color11": "#ffff7f",
+        "color12": "#b0521d",
+        "color13": "#ffcf59",
+        "color14": "#ff9d30",
+        "color15": "#fffffe"
+    }
+}

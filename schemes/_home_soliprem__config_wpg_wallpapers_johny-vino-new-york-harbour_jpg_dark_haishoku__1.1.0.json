@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/johny-vino-new-york-harbour.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#14181b",
+        "foreground": "#fdffff",
+        "cursor": "#fdffff"
+    },
+    "colors": {
+        "color0": "#14181b",
+        "color1": "#5e8f9f",
+        "color2": "#03425d",
+        "color3": "#6c99ac",
+        "color4": "#247183",
+        "color5": "#85abb9",
+        "color6": "#4589ab",
+        "color7": "#c4c5c6",
+        "color8": "#293137",
+        "color9": "#69c2df",
+        "color10": "#01567b",
+        "color11": "#7acef1",
+        "color12": "#2399b5",
+        "color13": "#98e7ff",
+        "color14": "#4ab7ed",
+        "color15": "#fdffff"
+    }
+}

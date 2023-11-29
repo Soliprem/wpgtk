@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/down_the_way.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#171816",
+        "foreground": "#fffffe",
+        "cursor": "#fffffe"
+    },
+    "colors": {
+        "color0": "#171816",
+        "color1": "#688736",
+        "color2": "#87b63d",
+        "color3": "#b3c36c",
+        "color4": "#43662d",
+        "color5": "#7d8e56",
+        "color6": "#92b75a",
+        "color7": "#c5c5c4",
+        "color8": "#30322d",
+        "color9": "#8abb39",
+        "color10": "#b3fc3f",
+        "color11": "#f5ff78",
+        "color12": "#548e30",
+        "color13": "#a8c761",
+        "color14": "#c1ff63",
+        "color15": "#fffffe"
+    }
+}

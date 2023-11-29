@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/jordan-heinrichs-UpA6QvGpLHc-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#120b04",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#120b04",
+        "color1": "#b23e00",
+        "color2": "#151514",
+        "color3": "#e46c00",
+        "color4": "#160e07",
+        "color5": "#a34400",
+        "color6": "#843100",
+        "color7": "#c4c4c4",
+        "color8": "#3c240b",
+        "color9": "#e65001",
+        "color10": "#1d1d17",
+        "color11": "#ff8c01",
+        "color12": "#1e1207",
+        "color13": "#d25801",
+        "color14": "#aa3f01",
+        "color15": "#ffffff"
+    }
+}

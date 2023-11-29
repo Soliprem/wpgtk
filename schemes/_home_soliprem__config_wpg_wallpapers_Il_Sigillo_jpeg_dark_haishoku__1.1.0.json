@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/Il_Sigillo.jpeg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191918",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191918",
+        "color1": "#723b2e",
+        "color2": "#7f6c3c",
+        "color3": "#d5bf8d",
+        "color4": "#827e7b",
+        "color5": "#c2927b",
+        "color6": "#90b9d0",
+        "color7": "#c5c5c5",
+        "color8": "#323230",
+        "color9": "#9e4631",
+        "color10": "#b19141",
+        "color11": "#ffffa0",
+        "color12": "#b9a18f",
+        "color13": "#ffb68b",
+        "color14": "#a4f6ff",
+        "color15": "#ffffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/MEDIA-jack-sparrow.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191615",
+        "foreground": "#fffefe",
+        "cursor": "#fffefe"
+    },
+    "colors": {
+        "color0": "#191615",
+        "color1": "#9c5e2a",
+        "color2": "#6e3b14",
+        "color3": "#edb982",
+        "color4": "#bd7639",
+        "color5": "#9d6b5f",
+        "color6": "#ce9064",
+        "color7": "#c5c4c4",
+        "color8": "#342d2b",
+        "color9": "#d77929",
+        "color10": "#974b11",
+        "color11": "#fff191",
+        "color12": "#ff983a",
+        "color13": "#dc816b",
+        "color14": "#ffb76e",
+        "color15": "#fffefe"
+    }
+}

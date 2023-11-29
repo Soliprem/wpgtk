@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/cute-cat.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161719",
+        "foreground": "#feffff",
+        "cursor": "#feffff"
+    },
+    "colors": {
+        "color0": "#161719",
+        "color1": "#5e9398",
+        "color2": "#2f4b5b",
+        "color3": "#6aada5",
+        "color4": "#406b76",
+        "color5": "#61a2b0",
+        "color6": "#7fc3c7",
+        "color7": "#c4c5c5",
+        "color8": "#2d2f33",
+        "color9": "#6accd5",
+        "color10": "#34637f",
+        "color11": "#77f3e4",
+        "color12": "#4792a5",
+        "color13": "#6cdef6",
+        "color14": "#8fffff",
+        "color15": "#feffff"
+    }
+}

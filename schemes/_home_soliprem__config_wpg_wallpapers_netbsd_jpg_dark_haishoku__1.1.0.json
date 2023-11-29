@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/netbsd.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191919",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191919",
+        "color1": "#cc261d",
+        "color2": "#6d986a",
+        "color3": "#d59821",
+        "color4": "#518a7c",
+        "color5": "#882d21",
+        "color6": "#448588",
+        "color7": "#c5c5c5",
+        "color8": "#323232",
+        "color9": "#ff2316",
+        "color10": "#7fd679",
+        "color11": "#ffca1a",
+        "color12": "#5bc1a8",
+        "color13": "#bb321f",
+        "color14": "#4bb8be",
+        "color15": "#ffffff"
+    }
+}

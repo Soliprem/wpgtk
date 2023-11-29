@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/nvim.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191918",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191918",
+        "color1": "#76751f",
+        "color2": "#666520",
+        "color3": "#324748",
+        "color4": "#3d6b6d",
+        "color5": "#37585a",
+        "color6": "#458588",
+        "color7": "#c5c5c5",
+        "color8": "#323230",
+        "color9": "#a3a11e",
+        "color10": "#8d8b20",
+        "color11": "#396365",
+        "color12": "#449598",
+        "color13": "#3e7a7e",
+        "color14": "#4cb9be",
+        "color15": "#ffffff"
+    }
+}

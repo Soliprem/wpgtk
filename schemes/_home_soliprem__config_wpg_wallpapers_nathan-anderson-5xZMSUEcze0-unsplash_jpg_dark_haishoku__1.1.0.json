@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/nathan-anderson-5xZMSUEcze0-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#141414",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#141414",
+        "color1": "#b55b59",
+        "color2": "#1c333c",
+        "color3": "#613033",
+        "color4": "#303f45",
+        "color5": "#804748",
+        "color6": "#5c2b2c",
+        "color7": "#c4c4c4",
+        "color8": "#2d2d2d",
+        "color9": "#fc6562",
+        "color10": "#1e4453",
+        "color11": "#87343a",
+        "color12": "#365561",
+        "color13": "#b34f51",
+        "color14": "#802f30",
+        "color15": "#ffffff"
+    }
+}

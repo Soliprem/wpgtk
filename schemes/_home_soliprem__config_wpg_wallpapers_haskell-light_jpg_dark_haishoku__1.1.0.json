@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/haskell-light.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#2b1918",
+        "foreground": "#fffbfb",
+        "cursor": "#fffbfb"
+    },
+    "colors": {
+        "color0": "#2b1918",
+        "color1": "#ec2045",
+        "color2": "#3d904b",
+        "color3": "#c6c02e",
+        "color4": "#999324",
+        "color5": "#f16247",
+        "color6": "#a1d39e",
+        "color7": "#cac5c5",
+        "color8": "#4b2b29",
+        "color9": "#ff184e",
+        "color10": "#41c858",
+        "color11": "#ffff2b",
+        "color12": "#d3ca22",
+        "color13": "#ff7147",
+        "color14": "#bcffb5",
+        "color15": "#fffbfb"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/ultrakill1.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191518",
+        "foreground": "#fffeff",
+        "cursor": "#fffeff"
+    },
+    "colors": {
+        "color0": "#191518",
+        "color1": "#cc3c4b",
+        "color2": "#7a3670",
+        "color3": "#842a3f",
+        "color4": "#423169",
+        "color5": "#da2b5e",
+        "color6": "#77678f",
+        "color7": "#c5c4c5",
+        "color8": "#342b32",
+        "color9": "#ff3c53",
+        "color10": "#aa3a99",
+        "color11": "#b62b4b",
+        "color12": "#513592",
+        "color13": "#ff2673",
+        "color14": "#9775c9",
+        "color15": "#fffeff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/hepuburn.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191819",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191819",
+        "color1": "#624338",
+        "color2": "#7d7676",
+        "color3": "#d5b39b",
+        "color4": "#4c4f56",
+        "color5": "#bc917d",
+        "color6": "#a3a5b2",
+        "color7": "#c5c5c5",
+        "color8": "#323032",
+        "color9": "#89523e",
+        "color10": "#b28989",
+        "color11": "#ffe4b1",
+        "color12": "#58627a",
+        "color13": "#ffb58e",
+        "color14": "#bdc6fd",
+        "color15": "#ffffff"
+    }
+}

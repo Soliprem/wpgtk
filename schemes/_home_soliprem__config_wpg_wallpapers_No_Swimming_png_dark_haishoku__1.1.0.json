@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/No_Swimming.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#171617",
+        "foreground": "#fffeff",
+        "cursor": "#fffeff"
+    },
+    "colors": {
+        "color0": "#171617",
+        "color1": "#df3c7d",
+        "color2": "#364768",
+        "color3": "#7c4168",
+        "color4": "#3e618a",
+        "color5": "#755f88",
+        "color6": "#7c2341",
+        "color7": "#c5c4c5",
+        "color8": "#302e30",
+        "color9": "#ff3b9e",
+        "color10": "#3b5991",
+        "color11": "#ad488b",
+        "color12": "#437dc0",
+        "color13": "#996cbf",
+        "color14": "#ab2351",
+        "color15": "#fffeff"
+    }
+}

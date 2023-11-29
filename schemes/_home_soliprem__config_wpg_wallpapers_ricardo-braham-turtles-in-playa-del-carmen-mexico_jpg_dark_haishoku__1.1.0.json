@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/ricardo-braham-turtles-in-playa-del-carmen-mexico.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181919",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#181919",
+        "color1": "#736142",
+        "color2": "#416164",
+        "color3": "#b5977d",
+        "color4": "#254959",
+        "color5": "#7d796d",
+        "color6": "#5e4b3b",
+        "color7": "#c5c5c5",
+        "color8": "#303232",
+        "color9": "#a1814a",
+        "color10": "#49868c",
+        "color11": "#ffc28e",
+        "color12": "#27627b",
+        "color13": "#b1a47e",
+        "color14": "#846042",
+        "color15": "#ffffff"
+    }
+}

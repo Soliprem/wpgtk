@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/oranges.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191816",
+        "foreground": "#fffffe",
+        "cursor": "#fffffe"
+    },
+    "colors": {
+        "color0": "#191816",
+        "color1": "#c73114",
+        "color2": "#3c681b",
+        "color3": "#f8c313",
+        "color4": "#72371b",
+        "color5": "#7f6c33",
+        "color6": "#de7f13",
+        "color7": "#c5c5c4",
+        "color8": "#33312d",
+        "color9": "#ff350b",
+        "color10": "#4c8f1a",
+        "color11": "#ffff07",
+        "color12": "#9d4419",
+        "color13": "#b09236",
+        "color14": "#ffa608",
+        "color15": "#fffffe"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/fuji.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#14161a",
+        "foreground": "#fefeff",
+        "cursor": "#fefeff"
+    },
+    "colors": {
+        "color0": "#14161a",
+        "color1": "#8d90a9",
+        "color2": "#234775",
+        "color3": "#c9a9a6",
+        "color4": "#345786",
+        "color5": "#a095aa",
+        "color6": "#67789c",
+        "color7": "#c4c4c5",
+        "color8": "#292d36",
+        "color9": "#a3abef",
+        "color10": "#235ba2",
+        "color11": "#ffc7c0",
+        "color12": "#376fba",
+        "color13": "#d0adf1",
+        "color14": "#7595db",
+        "color15": "#fefeff"
+    }
+}

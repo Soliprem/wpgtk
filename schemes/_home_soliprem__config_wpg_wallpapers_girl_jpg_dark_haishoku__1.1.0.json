@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/girl.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191919",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#191919",
+        "color1": "#805245",
+        "color2": "#5a6f77",
+        "color3": "#ba9b86",
+        "color4": "#4d5765",
+        "color5": "#9a6a53",
+        "color6": "#898d89",
+        "color7": "#c5c5c5",
+        "color8": "#323232",
+        "color9": "#b3634c",
+        "color10": "#6796a8",
+        "color11": "#ffc599",
+        "color12": "#586f8e",
+        "color13": "#d7845c",
+        "color14": "#a0c9a0",
+        "color15": "#ffffff"
+    }
+}

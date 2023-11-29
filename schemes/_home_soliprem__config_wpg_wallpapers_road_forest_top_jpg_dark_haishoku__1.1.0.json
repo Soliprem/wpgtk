@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/road_forest_top.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181919",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#181919",
+        "color1": "#655c4c",
+        "color2": "#5c6553",
+        "color3": "#6d6b5d",
+        "color4": "#566069",
+        "color5": "#5d666e",
+        "color6": "#81838a",
+        "color7": "#c5c5c5",
+        "color8": "#303232",
+        "color9": "#8e7a57",
+        "color10": "#778f60",
+        "color11": "#9a946b",
+        "color12": "#637d94",
+        "color13": "#6b859c",
+        "color14": "#96a0c4",
+        "color15": "#ffffff"
+    }
+}

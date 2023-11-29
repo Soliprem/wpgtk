@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/spirited1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1a1a19",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#1a1a19",
+        "color1": "#c2443c",
+        "color2": "#36834f",
+        "color3": "#bc844c",
+        "color4": "#6e4d3a",
+        "color5": "#c5936f",
+        "color6": "#847047",
+        "color7": "#c5c5c5",
+        "color8": "#333331",
+        "color9": "#ff493d",
+        "color10": "#3ab662",
+        "color11": "#ffab51",
+        "color12": "#996140",
+        "color13": "#ffbb7c",
+        "color14": "#b8964f",
+        "color15": "#ffffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/win11-img28.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181b1b",
+        "foreground": "#feffff",
+        "cursor": "#feffff"
+    },
+    "colors": {
+        "color0": "#181b1b",
+        "color1": "#779094",
+        "color2": "#377581",
+        "color3": "#b8a18c",
+        "color4": "#1d5061",
+        "color5": "#81a7af",
+        "color6": "#97becb",
+        "color7": "#c5c6c6",
+        "color8": "#2f3535",
+        "color9": "#89c7d1",
+        "color10": "#3ba0b3",
+        "color11": "#ffd0a0",
+        "color12": "#1d6c86",
+        "color13": "#93e5f7",
+        "color14": "#adffff",
+        "color15": "#feffff"
+    }
+}

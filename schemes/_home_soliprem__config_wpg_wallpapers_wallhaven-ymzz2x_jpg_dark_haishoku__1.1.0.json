@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/wallhaven-ymzz2x.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1a1819",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#1a1819",
+        "color1": "#6e372b",
+        "color2": "#3e475c",
+        "color3": "#fbc186",
+        "color4": "#535e78",
+        "color5": "#c69bbb",
+        "color6": "#7d6a73",
+        "color7": "#c5c5c5",
+        "color8": "#342f32",
+        "color9": "#98412d",
+        "color10": "#465881",
+        "color11": "#fffb95",
+        "color12": "#5e74a9",
+        "color13": "#ffb2fe",
+        "color14": "#b17a94",
+        "color15": "#ffffff"
+    }
+}

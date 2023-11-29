@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/mate-3.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161618",
+        "foreground": "#fefeff",
+        "cursor": "#fefeff"
+    },
+    "colors": {
+        "color0": "#161618",
+        "color1": "#856d4c",
+        "color2": "#624940",
+        "color3": "#9eba42",
+        "color4": "#b1a382",
+        "color5": "#8f857a",
+        "color6": "#bfbc91",
+        "color7": "#c4c4c5",
+        "color8": "#2d2d32",
+        "color9": "#ba8f55",
+        "color10": "#895948",
+        "color11": "#d6ff45",
+        "color12": "#fadb95",
+        "color13": "#cbad8d",
+        "color14": "#ffffa6",
+        "color15": "#fefeff"
+    }
+}

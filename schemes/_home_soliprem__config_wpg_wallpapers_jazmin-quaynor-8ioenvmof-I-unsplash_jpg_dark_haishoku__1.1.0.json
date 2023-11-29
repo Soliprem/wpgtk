@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/jazmin-quaynor-8ioenvmof-I-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1a1d1b",
+        "foreground": "#feffff",
+        "cursor": "#feffff"
+    },
+    "colors": {
+        "color0": "#1a1d1b",
+        "color1": "#688159",
+        "color2": "#4d6d54",
+        "color3": "#b6bca9",
+        "color4": "#557668",
+        "color5": "#859785",
+        "color6": "#a6b7a6",
+        "color7": "#c5c6c6",
+        "color8": "#313733",
+        "color9": "#83b565",
+        "color10": "#589966",
+        "color11": "#f5ffc4",
+        "color12": "#61a689",
+        "color13": "#9ad69a",
+        "color14": "#c1ffc1",
+        "color15": "#feffff"
+    }
+}

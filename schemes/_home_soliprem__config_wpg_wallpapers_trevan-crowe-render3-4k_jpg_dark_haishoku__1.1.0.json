@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/soliprem/.config/wpg/wallpapers/trevan-crowe-render3-4k.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161819",
+        "foreground": "#feffff",
+        "cursor": "#feffff"
+    },
+    "colors": {
+        "color0": "#161819",
+        "color1": "#755247",
+        "color2": "#264955",
+        "color3": "#cd7c76",
+        "color4": "#2e5562",
+        "color5": "#7a6565",
+        "color6": "#604744",
+        "color7": "#c4c5c5",
+        "color8": "#2d3133",
+        "color9": "#a46450",
+        "color10": "#296276",
+        "color11": "#ff8f84",
+        "color12": "#327388",
+        "color13": "#ad7474",
+        "color14": "#87534d",
+        "color15": "#feffff"
+    }
+}
