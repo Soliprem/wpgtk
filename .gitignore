@@ -1,0 +1,6 @@
+wallpapers/*
+schemes/*
+samples/*
+.current
+templates/*
+!templates/*.base

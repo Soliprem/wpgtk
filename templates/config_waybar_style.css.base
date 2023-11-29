@@ -152,17 +152,17 @@ window#waybar.hidden {{
 	margin-bottom: 0px;
 	border-radius: 10px;
 	transition: none;
-	color: #161320;
-	background: #B5E8E0;
+	color: {color15};
+	background: {color1};
 }}
 
 #battery.charging, #battery.plugged {{
-	color: #161320;
-    background-color: #B5E8E0;
+	color: {color15};
+    background-color: {color1};
 }}
 
 #battery.critical:not(.charging) {{
-    background-color: #B5E8E0;
+    background-color: {color1};
     color: #161320;
     animation-name: blink;
     animation-duration: 0.5s;
