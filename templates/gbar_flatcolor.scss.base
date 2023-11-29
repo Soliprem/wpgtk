@@ -1,4 +1,4 @@
-// colorschese(generated)
+// colorscheme(generated)
 $bg: {color0};
 $fg: {color15};
 $inactive: {inactive};
